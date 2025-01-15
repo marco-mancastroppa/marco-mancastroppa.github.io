@@ -1,6 +1,0 @@
-name: marco-mancastroppa.github.io
-remote_theme: pages-themes/cayman@v0.2.0
-plugins: 
-- jekyll-remote-theme 
-title: Marco Mancastroppa
-description: Personal website of Marco Mancastroppa.
