@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![MarcoMancastroppa](/pictures/me.jpg)
+![MarcoMancastroppa](/pictures/me.jpg | width=50)
 
 I am a **physicist** with a background in **equilibrium and non-equilibrium statistical physics and physics of complex systems**. My research activity focus on the study of **complex networks**, **higher-order interactions**, **network dynamics** and **stochastic dynamical processes on networks**.</p>
 
