@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
-<img src="/pictures/me.jpg" width="50" />
-I am a **physicist** with a background in **equilibrium and non-equilibrium statistical physics and physics of complex systems**. My research activity focus on the study of **complex networks**, **higher-order interactions**, **network dynamics** and **stochastic dynamical processes on networks**.</p>
+<div class="row">
+  <div class="col-12 col-lg-4">
+  <img class="avatar avatar-circle" src="/pictures/me.jpg" alt="Marco Mancastroppa" />
+  </div>
+  <div class="col-12 col-lg-8">
+    
+I am a **physicist** with a background in **equilibrium and non-equilibrium statistical physics and physics of complex systems**. My research activity focus on the study of **complex networks**, **higher-order interactions**, **network dynamics** and **stochastic dynamical processes on networks**.
 
 I am currently a **post-doctoral researcher** at the [Céntre de Physique Théorique (CNRS, Aix-Marseille Université)](https://www.cpt.univ-mrs.fr/) in Marseille (France) under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/).
 
 More information about my [academic trajectory](https://marco-mancastroppa.github.io/timeline.html) or about my [researc activity](https://marco-mancastroppa.github.io/publications.html).
 
+  </div>
+</div>
 
 
