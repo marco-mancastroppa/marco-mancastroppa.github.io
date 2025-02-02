@@ -5,7 +5,7 @@ description: Marco Mancastroppa
 ---
 
 ## Papers
-*	**Mancastroppa M.**, Vezzani A., Colizza V., Burioni R.,
+*	**Mancastroppa M.**, Vezzani A., Colizza V., Burioni R.,<br />
 _“Preserving system activity while controlling epidemic spreading in adaptive temporal networks”_
 [Physical Review Research 6, 033159 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033159)
 *	**Mancastroppa M.**, Iacopini I., Petri G., Barrat A., _“The structural evolution of temporal hypergraphs through the lens of hyper-cores”_, [EPJ Data Science 13, 50 (2024)](https://doi.org/10.1140/epjds/s13688-024-00490-1)
