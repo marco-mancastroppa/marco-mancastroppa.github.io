@@ -22,5 +22,3 @@ description: Marco Mancastroppa
     
 ## Dissemination articles
 *  Burioni R., Castellano C., Mancastroppa M., Vezzani A., "Il tracciamento manuale può essere più efficace di quello digitale", Scienza in Rete (2021) 
-
-[back](./)
