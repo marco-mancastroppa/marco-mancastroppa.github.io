@@ -2,9 +2,32 @@
 layout: default
 ---
 <style>
-.image-text { display: flex; align-items: center; }
-.image-text img { flex-basis: 30%; max-width: 200px; height: auto; margin-right: 15px; }
-.image-text p { flex-basis: 70%; }
+.container {
+  display: flex;
+  align-items: center;
+  gap: 15px; 
+}
+
+.container img {
+  max-width: 30%; 
+  height: auto;
+}
+
+.container p {
+  flex: 1; 
+}
+
+  
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    text-align: center; 
+  }
+
+  .container img {
+    max-width: 80%; 
+  }
+}
 </style>
 
 <div class="image-text">
