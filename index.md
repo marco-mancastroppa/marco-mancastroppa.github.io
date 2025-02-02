@@ -30,7 +30,7 @@ layout: default
 }
 </style>
 
-<div class="image-text">
+<div class="container">
   <img src="/pictures/me.jpg" alt="Marco Mancastroppa">
   <p>I am a <b>physicist</b> with a background in <b>equilibrium and non-equilibrium statistical physics and physics of complex systems</b>. <br>
     
