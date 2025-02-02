@@ -1,19 +1,17 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="col-12 col-lg-4">
-  <img class="avatar avatar-circle" src="/pictures/me.jpg" alt="Marco Mancastroppa" />
-  </div>
-  <div class="col-12 col-lg-8">
-    
-I am a **physicist** with a background in **equilibrium and non-equilibrium statistical physics and physics of complex systems**. My research activity focus on the study of **complex networks**, **higher-order interactions**, **network dynamics** and **stochastic dynamical processes on networks**.
+<style>
+.image-text { display: flex; align-items: center; }
+.image-text img { flex-basis: 30%; max-width: 200px; height: auto; margin-right: 15px; }
+.image-text p { flex-basis: 70%; }
+</style>
 
-I am currently a **post-doctoral researcher** at the [Céntre de Physique Théorique (CNRS, Aix-Marseille Université)](https://www.cpt.univ-mrs.fr/) in Marseille (France) under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/).
-
-More information about my [academic trajectory](https://marco-mancastroppa.github.io/timeline.html) or about my [researc activity](https://marco-mancastroppa.github.io/publications.html).
-
-  </div>
+<div class="image-text">
+  <img src="/pictures/me.jpg" alt="Marco Mancastroppa">
+  <p>I am a <b>physicist</b> with a background in <b>equilibrium and non-equilibrium statistical physics and physics of complex systems</b>b>. My research activity focus on the study of <b>complex networks, higher-order interactions, network dynamics and stochastic dynamical processes on networks</b>b>.</p>
+<p>I am currently a **post-doctoral researcher** at the [Céntre de Physique Théorique (CNRS, Aix-Marseille Université)](https://www.cpt.univ-mrs.fr/) in Marseille (France) under the supervision of [Alain Barrat](https://www.cpt.univ-mrs.fr/~barrat/).</p>
+<p>More information about my [academic trajectory](https://marco-mancastroppa.github.io/timeline.html) or about my [researc activity](https://marco-mancastroppa.github.io/publications.html).
+</p>
 </div>
-
 
