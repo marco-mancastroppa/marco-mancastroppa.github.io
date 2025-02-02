@@ -12,6 +12,7 @@ _“Preserving system activity while controlling epidemic spreading in adaptive 
 *	**Mancastroppa M.**, Iacopini I., Petri G., Barrat A.,<br />
 _“The structural evolution of temporal hypergraphs through the lens of hyper-cores”_,<br />
 [EPJ Data Science 13, 50 (2024)](https://doi.org/10.1140/epjds/s13688-024-00490-1) [[arXiv:2402.06485](https://arxiv.org/abs/2402.06485)]
+
 *	Cencetti G., Contreras D.A., **Mancastroppa M.**, Barrat A.,<br />
 “Distinguishing simple and complex contagion processes on networks”,<br />
 [Physical Review Letters 130, 247401 (2023)](https://doi.org/10.1103/PhysRevLett.130.247401) [[arXiv:2301.09407](https://arxiv.org/abs/2301.09407)]
