@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<style>
+<!--<style>
 .container {
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@ layout: default
     max-width: 80%; 
   }
 }
-</style>
+</style> -->
 
 <div class="container">
   <img src="/pictures/me.jpg" alt="Marco Mancastroppa">
