@@ -30,7 +30,7 @@ layout: default
 }
 </style> 
 <img src="/pictures/me.jpg" alt="Marco Mancastroppa"> -->
-[Me](/pictures/me.jpg)
+![Me](/pictures/me.jpg)
 <div class="container"> 
   <p>I am a <b>physicist</b> with a background in <b>statistical physics</b> and <b>physics of complex systems</b>. My research activity focuses on the study of <b>complex networks, higher-order interactions, network dynamics and stochastic dynamical processes on networks</b>, with applications in <b>epidemiology, social systems, and data-driven modeling</b>.<br><br>
     I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt.univ-mrs.fr/">Centre de Physique Théorique (CNRS, Aix-Marseille Université)</a> in Marseille (France) under the supervision of <a href="https://www.cpt.univ-mrs.fr/~barrat/">Alain Barrat</a>.<br><br>
