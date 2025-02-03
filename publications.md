@@ -44,15 +44,15 @@ _“Burstiness in activity-driven networks and the epidemic threshold”_,<br />
 ## Thesis
 *   Mancastroppa M., [_“Epidemic processes on adaptive temporal networks”_](https://www.repository.unipr.it/bitstream/1889/4819/5/PhD_thesis_MancastroppaMarco_rev.pdf),<br />
 PhD thesis in Physics at University of Parma, Parma, Italy (2022),<br />
-[Supervisors: Dr. Alessandro Vezzani, Prof. Raffaella Burioni]
+[Supervisors: [Dr. Alessandro Vezzani](https://scholar.google.it/citations?user=Z7zwwb8AAAAJ&hl=it), [Prof. Raffaella Burioni](https://personale.unipr.it/en/ugovdocenti/person/18825)]
 
-*   Mancastroppa M., _“Epidemic processes on bursty temporal networks”_,<br />
+*   Mancastroppa M., [_“Epidemic processes on bursty temporal networks”_](),<br />
 Master thesis in Physics at University of Parma, Parma, Italy (2018),<br />
-[Supervisors: Dr. Alessandro Vezzani, Prof. Raffaella Burioni]
+[Supervisors: [Dr. Alessandro Vezzani](https://scholar.google.it/citations?user=Z7zwwb8AAAAJ&hl=it), [Prof. Raffaella Burioni](https://personale.unipr.it/en/ugovdocenti/person/18825)]
 
-*   Mancastroppa M., _“Deterministic chaos in Lorenz-like systems with stable equilibrium points”_,<br />
+*   Mancastroppa M., [_“Deterministic chaos in Lorenz-like systems with stable equilibrium points”_](),<br />
 Bachelor thesis in Physics at University of Parma, Parma, Italy (2016),<br />
-[Supervisors: Prof. Mario Casartelli, Prof. Maria Groppi]
+[Supervisors: [Prof. Mario Casartelli](https://www.researchgate.net/profile/Mario_Casartelli), [Prof. Maria Groppi](https://personale.unipr.it/en/ugovdocenti/person/19524)]
     
 ## Dissemination
 *  Burioni R., Castellano C., Mancastroppa M., Vezzani A., _"Il tracciamento manuale può essere più efficace di quello digitale"_, [Scienza in Rete (2021)](https://www.scienzainrete.it/articolo/tracciamento-manuale-può-essere-più-efficace-di-quello-digitale/raffaella-burioni-claudio) 
