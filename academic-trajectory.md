@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Awards
+title: Academic trajectory
 description: Marco Mancastroppa
 ---
 
