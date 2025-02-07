@@ -28,6 +28,29 @@ layout: default
     max-width: 80%; 
   }
 }
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    display: flex;
+    align-items: center; /* Allinea le icone al testo */
+}
+
+.social-icons {
+    margin-left: 10px; /* Distanza tra il testo e le icone */
+    display: flex;
+    gap: 10px; /* Spazio tra le icone */
+}
+
+.social-icons a {
+    font-size: 20px;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
 </style> 
 
 <div class="container"> 
@@ -35,6 +58,10 @@ layout: default
   <p>I am a <b>physicist</b> with a background in <b>statistical physics</b> and <b>physics of complex systems</b>. My research activity focuses on the study of <b>complex networks, higher-order interactions, network dynamics and stochastic dynamical processes on networks</b>, with applications in <b>epidemiology, social systems, and data-driven modeling</b>.<br><br>
     I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt.univ-mrs.fr/">Centre de Physique Théorique (CNRS, Aix-Marseille Université)</a> in Marseille (France) under the supervision of <a href="https://www.cpt.univ-mrs.fr/~barrat/">Alain Barrat</a>.<br><br>
     Here, you can find information about my <a href="#academic-trajectory">academic trajectory</a>, my <a href="#collaboration">collaboration network</a>, my <a href="#topics">research projects</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach out</a> if you’re interested in potential collaborations.
+    <span class="social-icons">
+    <a href="https://facebook.com" target="_blank"><i class="fab fa-bluesky"></i></a>
+    <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
+</span>
 </p>
 </div>
 
