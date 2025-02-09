@@ -68,6 +68,15 @@ ul.two-column-list li {
 ### Topics
 <p id="topics"></p>
 
+# Dynamical processes on temporal networks
+...
+# Adaptive temporal networks
+...
+# Contact tracing for epidemic mitigation
+...
+# Structural and dynamical characterization of hypergraphs
+...
+
 * * *
 
 ### Closest collaborations
