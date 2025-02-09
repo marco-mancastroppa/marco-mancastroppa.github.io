@@ -3,6 +3,9 @@ layout: default
 title: Publications
 description: Marco Mancastroppa
 ---
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
 
 <a href="https://scholar.google.com/citations?user=4UKBmnoAAAAJ&hl=en" target="_blank"><i class="fa-solid fa-graduation-cap fa-2x"></i></a>
 <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
