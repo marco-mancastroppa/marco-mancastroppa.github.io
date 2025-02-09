@@ -33,6 +33,19 @@ layout: default
   }
 }
 
+/* Style for the unordered list */
+ul.two-column-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Creates two equal columns */
+    gap: 10px; /* Adds space between the columns */
+    padding: 0;
+    list-style-type: none; /* Removes bullet points */
+}
+
+/* Style for list items */
+ul.two-column-list li {
+    margin-bottom: 10px; /* Adds space between list items */
+}
 </style> 
 
 <div class="container"> 
@@ -41,12 +54,12 @@ layout: default
     I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt.univ-mrs.fr/">Centre de Physique Théorique (CNRS, Aix-Marseille Université)</a> in Marseille (France) under the supervision of <a href="https://www.cpt.univ-mrs.fr/~barrat/">Alain Barrat</a>.<br><br>
     Here you can find information about my <a href="https://marco-mancastroppa.github.io/academic-trajectory">academic trajectory</a>, my <a href="#topics">research projects</a>, my <a href="#collaboration">collaboration network</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach me out</a> if you’re interested in potential collaborations! <br><br>
     <a href="mailto:marco.mancastroppa@cpt.univ-mrs.fr"><i class="fa-solid fa-envelope fa-2x"></i></a>
+    <a href="https://bsky.app/profile/marco-mancastroppa.bsky.social" target="_blank"><i class="fa-brands fa-bluesky fa-2x"></i></a>
     <a href="https://scholar.google.com/citations?user=4UKBmnoAAAAJ&hl=en" target="_blank"><i class="fa-solid fa-graduation-cap fa-2x"></i></a>
+    <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
+    <a href="https://www.researchgate.net/profile/Marco-Mancastroppa" target="_blank"><i class="fa-brands fa-researchgate fa-2x"></i></a>
     <a href="https://github.com/marco-mancastroppa" target="_blank"><i class="fa-brands fa-github fa-2x"></i></a>
     <a href="https://fr.linkedin.com/in/marco-mancastroppa-b3587611a" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a>
-    <a href="https://www.researchgate.net/profile/Marco-Mancastroppa" target="_blank"><i class="fa-brands fa-researchgate fa-2x"></i></a>
-    <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
-    <a href="https://bsky.app/profile/marco-mancastroppa.bsky.social" target="_blank"><i class="fa-brands fa-bluesky fa-2x"></i></a>
 </p>
 </div>
 
@@ -57,6 +70,19 @@ layout: default
 
 * * *
 
-### Collaboration network
+### Closest collaborations
 <p id="collaboration"></p>
+<ul class="two-column-list">
+    <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><b>Alain Barrat</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><b>Raffaella Burioni</b>, University of Parma, INFN</li>
+    <li><b>Claudio Castellano</b>, Institute of Complex Systems, ISC-CNR</li>
+    <li><b>Giulia Cencetti</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><b>Vittoria Colizza</b>, INSERM, Sorbonne Université</li>
+    <li><b>Iacopo Iacopini</b>, Network Science Institute, Northeastern University London</li>
+    <li><b>Giovanni Petri</b>, Network Science Institute, Northeastern University London, CENTAI</li>
+    <li><b>Nicola Perra</b>, Queen Mary University of London</li>
+    <li><b>Alessandro Vezzani</b>, IMEM-CNR, University of Parma, INFN</li>
+</ul>
+
 * * *
