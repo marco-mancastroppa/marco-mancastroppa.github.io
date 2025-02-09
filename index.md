@@ -67,19 +67,37 @@ ul.two-column-list li {
 
 # Topics
 <p id="topics"></p>
-
-* ### Dynamical processes on temporal networks
-...
-* ### Adaptive temporal networks
-...
-* ### Contact tracing for epidemic mitigation
-...
-* ### Structural and dynamical characterization of hypergraphs
-...
-* ### Temporal hypergraphs generation
-...
-* ### Opinion dynamics on networks and hypergraphs
-...
+<ul class="two-column-list">
+<li><b>Dynamical processes on temporal networks</b>
+    <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab16c4" target="_blank">
+        <img src="/pictures/dyn_temp.png" alt="Dyn_temp">
+    </a>
+</li>
+<li><b>Adaptive temporal networks</b>
+    <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033159" target="_blank">
+        <img src="/pictures/adaptive.png" alt="adaptive_temp">
+    </a>
+</li>
+<li><b>Contact tracing for epidemic mitigation</b>
+    <a href="https://www.nature.com/articles/s41467-021-22082-7" target="_blank">
+        <img src="/pictures/CT.png" alt="CT">
+    </a>
+</li>
+<li><b>Structural and dynamical characterization of hypergraphs</b>
+    <a href="https://www.nature.com/articles/s41467-023-41887-2" target="_blank">
+        <img src="/pictures/hyper.png" alt="hyper">
+    </a>
+</li>
+<li><b>Temporal hypergraphs generation</b>
+    <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00490-1" target="_blank">
+        <img src="/pictures/Ht.png" alt="Ht">
+    </a>
+</li>
+<li><b>Opinion dynamics on networks and hypergraphs</b>
+    <a href="https://www.nature.com/articles/s41467-023-41887-2" target="_blank">
+        <img src="/pictures/OP.png" alt="OP">
+    </a>
+</li>
 
 * * *
 
