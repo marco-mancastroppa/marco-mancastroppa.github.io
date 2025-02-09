@@ -45,6 +45,8 @@ layout: default
     <a href="https://bsky.app/profile/marco-mancastroppa.bsky.social" target="_blank"><i class="fa-brands fa-bluesky fa-3x"></i></a>
     <a href="https://github.com/marco-mancastroppa" target="_blank"><i class="fa-brands fa-github fa-3x"></i></a>
     <a href="https://fr.linkedin.com/in/marco-mancastroppa-b3587611a" target="_blank"><i class="fa-brands fa-linkedin fa-3x"></i></a>
+    <a href="https://www.researchgate.net/profile/Marco-Mancastroppa" target="_blank"><i class="fa-brands fa-researchgate fa-3x"></i></a>
+    <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-3x"></i></a>
 </p>
 </div>
 
