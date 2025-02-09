@@ -42,7 +42,7 @@ layout: default
     Here you can find information about my <a href="https://marco-mancastroppa.github.io/academic-trajectory">academic trajectory</a>, my <a href="#topics">research projects</a>, my <a href="#collaboration">collaboration network</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach me out</a> if you’re interested in potential collaborations! <br><br>
     <a href="mailto:marco.mancastroppa@cpt.univ-mrs.fr"><i class="fa-solid fa-envelope fa-3x"></i></a>
     <a href="https://scholar.google.com/citations?user=4UKBmnoAAAAJ&hl=en" target="_blank"><i class="fa-solid fa-graduation-cap fa-3x"></i></a>
-    <a href="https://bsky.app/profile/marco-mancastroppa.bsky.social" target="_blank"><i class="fa-solid fa-bluesky fa-3x"></i></a>
+    <a href="https://bsky.app/profile/marco-mancastroppa.bsky.social" target="_blank"><i class="fa-brands fa-bluesky fa-3x"></i></a>
     <a href="https://github.com/marco-mancastroppa" target="_blank"><i class="fa-brands fa-github fa-3x"></i></a>
     <a href="https://fr.linkedin.com/in/marco-mancastroppa-b3587611a" target="_blank"><i class="fa-brands fa-linkedin fa-3x"></i></a>
 </p>
