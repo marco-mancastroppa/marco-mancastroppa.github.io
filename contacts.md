@@ -3,6 +3,9 @@ layout: default
 title: Contacts
 description: Marco Mancastroppa
 ---
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
 
 You can reach me out in several ways, as you prefer!
 
