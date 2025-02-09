@@ -65,21 +65,21 @@ ul.two-column-list li {
 
 * * *
 
-### Topics
+## Topics
 <p id="topics"></p>
 
-# Dynamical processes on temporal networks
+### Dynamical processes on temporal networks
 ...
-# Adaptive temporal networks
+### Adaptive temporal networks
 ...
-# Contact tracing for epidemic mitigation
+### Contact tracing for epidemic mitigation
 ...
-# Structural and dynamical characterization of hypergraphs
+### Structural and dynamical characterization of hypergraphs
 ...
 
 * * *
 
-### Closest collaborations
+## Closest collaborations
 <p id="collaboration"></p>
 <ul class="two-column-list">
     <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
