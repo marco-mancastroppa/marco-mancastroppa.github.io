@@ -73,16 +73,16 @@ ul.two-column-list li {
 ### Closest collaborations
 <p id="collaboration"></p>
 <ul class="two-column-list">
-    <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
-    <li><b>Alain Barrat</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
-    <li><b>Raffaella Burioni</b>, University of Parma, INFN</li>
-    <li><b>Claudio Castellano</b>, Institute of Complex Systems, ISC-CNR</li>
-    <li><b>Giulia Cencetti</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
-    <li><b>Vittoria Colizza</b>, INSERM, Sorbonne Université</li>
-    <li><b>Iacopo Iacopini</b>, Network Science Institute, Northeastern University London</li>
-    <li><b>Giovanni Petri</b>, Network Science Institute, Northeastern University London, CENTAI</li>
-    <li><b>Nicola Perra</b>, Queen Mary University of London</li>
-    <li><b>Alessandro Vezzani</b>, IMEM-CNR, University of Parma, INFN</li>
+    <li><b>Cosimo Agostinelli</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><a href="https://www.cpt.univ-mrs.fr/~barrat/"><b>Alain Barrat</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><a href="https://personale.unipr.it/en/ugovdocenti/person/18825"><b>Raffaella Burioni</b></a>, University of Parma, INFN</li>
+    <li><a href="https://sites.google.com/site/claudiocastellanohome/home"><b>Claudio Castellano</b></a>, Institute of Complex Systems, ISC-CNR</li>
+    <li><a href="https://giuliacencetti.github.io"><b>Giulia Cencetti</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><a href="https://www.epicx-lab.com/vittoria-colizza.html"><b>Vittoria Colizza</b></a>, INSERM, Sorbonne Université</li>
+    <li><a href="https://iaciac.github.io/author/iacopo-iacopini/"><b>Iacopo Iacopini</b></a>, Network Science Institute, Northeastern University London</li>
+    <li><a href="https://www.nicolaperra.com"><b>Nicola Perra</b></a>, Queen Mary University of London</li>
+    <li><a href="http://lordgrilo.github.io"><b>Giovanni Petri</b></a>, Network Science Institute, Northeastern University London, CENTAI</li>
+    <li><a href="https://scholar.google.it/citations?user=Z7zwwb8AAAAJ&hl=it"><b>Alessandro Vezzani</b></a>, IMEM-CNR, University of Parma, INFN</li>
 </ul>
 
 * * *
