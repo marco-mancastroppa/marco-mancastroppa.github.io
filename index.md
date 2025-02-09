@@ -55,6 +55,8 @@ layout: default
 ### Topics
 <p id="topics"></p>
 
+* * *
+
 ### Collaboration network
 <p id="collaboration"></p>
 * * *
