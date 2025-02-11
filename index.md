@@ -67,30 +67,18 @@ ul.two-column-list li {
 
 # Topics
 <p id="topics"></p>
-<ul class="two-column-list">
-    <li><b>Dynamical processes on temporal networks</li>
-    <li><img src="/pictures/dyn_temp.png" alt="Dyn_temp"></li>
-</ul>
-<ul class="two-column-list">
-    <li><b>Temporal hypergraphs generation</li>
-    <li><img src="/pictures/Ht.png" alt="Ht"></li>
-</ul>
-<ul class="two-column-list">
-    <li><b>Adaptive temporal networks</li>
-    <li><img src="/pictures/adaptive.png" alt="adaptive_temp"></li>
-</ul>
-<ul class="two-column-list">
-    <li><b>Contact tracing for epidemic mitigation</li>
-    <li><img src="/pictures/CT.png" alt="CT"></li>
-</ul>
-<ul class="two-column-list">
-    <li><b>Structural and dynamical characterization of hypergraphs</li>
-    <li><img src="/pictures/hyper.png" alt="hyper"></li>
-</ul>
-<ul class="two-column-list">
-    <li><b>Opinion dynamics on networks and hypergraphs</li>
-     <li><img src="/pictures/OP.png" alt="OP"></li>
-</ul>
+<b>Dynamical processes on temporal networks<br><br>
+<img src="/pictures/dyn_temp.png" alt="Dyn_temp"><br><br>
+<b>Temporal hypergraphs generation<br><br>
+<img src="/pictures/Ht.png" alt="Ht"><br><br>
+<b>Adaptive temporal networks<br><br>
+ <img src="/pictures/adaptive.png" alt="adaptive_temp"><br><br>
+<b>Contact tracing for epidemic mitigation<br><br>
+ <img src="/pictures/CT.png" alt="CT"><br><br>
+<b>Structural and dynamical characterization of hypergraphs<br><br>
+<img src="/pictures/hyper.png" alt="hyper"><br><br>
+<b>Opinion dynamics on networks and hypergraphs<br><br>
+ <img src="/pictures/OP.png" alt="OP"><br><br>
         
 * * *
 
