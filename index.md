@@ -67,38 +67,23 @@ ul.two-column-list li {
 
 # Topics
 <p id="topics"></p>
-<ul class="two-column-list">
-<li><b>* Dynamical processes on temporal networks</b><br><br>
-    <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab16c4" target="_blank">
-        <img src="/pictures/dyn_temp.png" alt="Dyn_temp">
-    </a>
-</li>
-<li><b>* Temporal hypergraphs generation</b><br><br>
-    <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00490-1" target="_blank">
-        <img src="/pictures/Ht.png" alt="Ht">
-    </a>
-</li>
-<li><b>* Adaptive temporal networks</b><br><br>
-    <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033159" target="_blank">
-        <img src="/pictures/adaptive.png" alt="adaptive_temp">
-    </a>
-</li>
-<li><b>* Contact tracing for epidemic mitigation</b><br><br>
-    <a href="https://www.nature.com/articles/s41467-021-22082-7" target="_blank">
-        <img src="/pictures/CT.png" alt="CT">
-    </a>
-</li>
-<li><b>* Structural and dynamical characterization of hypergraphs</b><br><br>
-    <a href="https://www.nature.com/articles/s41467-023-41887-2" target="_blank">
-        <img src="/pictures/hyper.png" alt="hyper">
-    </a>
-</li>
-<li><b>* Opinion dynamics on networks and hypergraphs</b><br><br>
-    <a href="https://www.nature.com/articles/s41467-023-41887-2" target="_blank">
-        <img src="/pictures/OP.png" alt="OP">
-    </a>
-</li>
-</ul>
+Dynamical processes on temporal networks</b><br><br>
+<img src="/pictures/dyn_temp.png" alt="Dyn_temp"><br><br><br><br>
+
+Temporal hypergraphs generation<br><br>
+<img src="/pictures/Ht.png" alt="Ht"><br><br><br><br>
+
+Adaptive temporal networks<br><br>
+<img src="/pictures/adaptive.png" alt="adaptive_temp"><br><br><br><br>
+ 
+Contact tracing for epidemic mitigation<br><br>
+<img src="/pictures/CT.png" alt="CT"><br><br><br><br>
+ 
+Structural and dynamical characterization of hypergraphs<br><br>
+<img src="/pictures/hyper.png" alt="hyper"><br><br><br><br>
+ 
+ Opinion dynamics on networks and hypergraphs<br><br>
+ <img src="/pictures/OP.png" alt="OP"><br><br><br><br>
 
 * * *
 
