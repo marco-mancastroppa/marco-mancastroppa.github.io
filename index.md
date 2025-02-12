@@ -8,10 +8,12 @@ layout: default
 <style>
 .image-left {
     float: left;
+    width: 50%; 
     margin: 0 15px 10px 0; /* Adds space around the image */
 }
 .image-right {
     float: right;
+    width: 50%;
     margin: 0 0 10px 15px; /* Adds space around the image */
 }
     
