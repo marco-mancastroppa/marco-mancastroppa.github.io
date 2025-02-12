@@ -13,7 +13,7 @@ layout: default
 }
 
 .container img {
-  max-width: 30%; 
+  max-width: 50%; 
   height: auto;
 }
 
