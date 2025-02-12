@@ -83,7 +83,7 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-right">
     <b style="color: #155799;">Dynamical processes on temporal networks</b><br>
-    Several systems present time-varying interactions, which follow specific dynamics and temporal patterns: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We study how temporal properties of the network influence dynamic processes unfolding upon it.<br>
+    Several systems present time-varying interactions, which follow specific dynamics and temporal patterns: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We are interested in how temporal properties of the network influence dynamic processes unfolding upon it.<br>
 </p>
 <b>Temporal hypergraphs generation<br><br>
 <img src="/pictures/Ht.png" alt="Ht"><br><br>
