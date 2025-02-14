@@ -80,6 +80,16 @@ ul.two-column-list li {
 
 # Topics
 <p id="topics"></p>
+<b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
+<p>
+    <img src="/pictures/hyper.png" alt="hyper" class="image-right">
+    Going beyond networks, to include <b>higher-order interactions</b> of arbitrary sizes, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of methods specifically designed to analyse the topological properties of hypergraphs at multiple scales. <br>
+</p>
+<b style="color: #155799; font-size: 24px;">Complex dynamic processes</b>
+<p>
+    <img src="/pictures/OP.png" alt="OP" class="image-right">
+    Several processes, such as social contagion and opinion formation, are based on intrinsically higher-order mechanisms, where multiple exposure and group reinforcement are active: therefore, they are called <b>complex dynamic processes</b>. Higher-order interactions give rise to both novel structures and phenomena, deeply affecting dynamical processes. When higher-order mechanisms are introduced in the dynamics, non-trivial effects emerge both qualitatively and qualitatively. We are interested in investigating how the higher-order structure of the interactions affect the dynamical processes and how this differ from simple dynamics on pairwise networks, which neglect the higher-order nature of interactions. <br>
+</p>
 <b style="color: #155799; font-size: 24px;">Dynamical processes on temporal networks</b>
 <p>
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-right">
@@ -98,16 +108,6 @@ ul.two-column-list li {
 <b style="color: #155799; font-size: 24px;">Contact tracing for epidemic mitigation</b>
 <p>
     <img src="/pictures/CT.png" alt="CT" class="image-right">
-    Work in progress<br>
-</p>
-<b style="color: #155799; font-size: 24px;">Structural and dynamical characterization of hypergraphs</b>
-<p>
-    <img src="/pictures/hyper.png" alt="hyper" class="image-right">
-    Work in progress<br>
-</p>
-<b style="color: #155799; font-size: 24px;">Opinion dynamics on networks and hypergraphs</b>
-<p>
-    <img src="/pictures/OP.png" alt="OP" class="image-right">
     Work in progress<br>
 </p> -->
         
