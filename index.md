@@ -59,23 +59,6 @@ ul.two-column-list {
 ul.two-column-list li {
     margin-bottom: 10px; /* Adds space between list items */
 }
-
-.container {
-    display: flex;
-    flex-wrap: wrap; /* Allows wrapping if needed */
-    align-items: flex-start; /* Aligns content at the top */
-    max-width: 600px;
-    font-size: 18px;
-    line-height: 1.5;
-}
-.image {
-    max-width: 40%; /* Limits the image size */
-    height: auto; /* Maintains aspect ratio */
-    margin-right: 15px; /* Space between text and image */
-}
-.text {
-    flex: 1; /* Allows text to take the remaining space */
-}
 </style> 
 
 <div class="container"> 
@@ -99,11 +82,9 @@ ul.two-column-list li {
 <p id="topics"></p>
 <b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
 <p>
-    <div class="container">
     <img src="/pictures/hyper.png" alt="hyper" class="image">
     <p class="text">Going beyond networks, to include <b>higher-order interactions</b> of arbitrary sizes, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of methods specifically designed to analyse the topological properties of hypergraphs at multiple scales. <br>
 </p>
-    </div>
 * * *
 <b style="color: #155799; font-size: 24px;">Complex dynamic processes</b>
 <p>
