@@ -82,8 +82,8 @@ ul.two-column-list li {
 <p id="topics"></p>
 <b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
 <p>
-    <img src="/pictures/hyper.png" alt="hyper" class="image">
-    <p class="text">Going beyond networks, to include <b>higher-order interactions</b> of arbitrary sizes, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of methods specifically designed to analyse the topological properties of hypergraphs at multiple scales. <br>
+    <img src="/pictures/hyper.png" alt="hyper" class="image-right">
+    <p>Going beyond networks, to include <b>higher-order interactions</b> of arbitrary sizes, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of methods specifically designed to analyse the topological properties of hypergraphs at multiple scales. <br>
 </p>
 * * *
 <b style="color: #155799; font-size: 24px;">Complex dynamic processes</b>
