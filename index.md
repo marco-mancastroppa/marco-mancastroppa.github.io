@@ -96,16 +96,18 @@ ul.two-column-list li {
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-right">
     Many complex systems present time-varying interactions, which follow specific dynamics: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We are interested in how temporal properties of the network influence dynamic processes unfolding upon it.<br>
 </p>
+
+<b style="color: #155799; font-size: 24px;">Adaptive temporal networks</b>
+<p>
+     <img src="/pictures/adaptive.png" alt="adaptive_temp" class="image-left">
+    When modelling the spread of epidemics, two levels of coupling between epidemic processes and social interactions must be taken into account: human interactions are continuously rearranged over time, affecting the epidemic; the epidemic induces adaptive behaviours with which the population responds to the spread of the pathogen, affecting the social dynamics. A powerful paradigm for considering both these levels is the theory of <b>adaptive temporal networks</b>. Our work consists in understanding the interplay between epidemic dynamics and adaptive behaviors, which is essential to improve response strategies to epidemics.<br>
+</p>
 <!-- <b style="color: #155799; font-size: 24px;">Temporal hypergraphs generation</b>
 <p>
     <img src="/pictures/Ht.png" alt="Ht" class="image-right">
     Work in progress<br>
 </p>
-<b style="color: #155799; font-size: 24px;">Adaptive temporal networks</b>
-<p>
-     <img src="/pictures/adaptive.png" alt="adaptive_temp" class="image-right">
-    Work in progress<br>
-</p>
+
 <b style="color: #155799; font-size: 24px;">Contact tracing for epidemic mitigation</b>
 <p>
     <img src="/pictures/CT.png" alt="CT" class="image-right">
