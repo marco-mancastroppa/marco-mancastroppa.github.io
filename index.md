@@ -87,7 +87,7 @@ ul.two-column-list li {
 </p>
 <b style="color: #155799; font-size: 24px;">Complex dynamic processes</b>
 <p>
-    <img src="/pictures/OP.png" alt="OP" class="image-right">
+    <img src="/pictures/OP.png" alt="OP" class="image-left">
     Several processes are based on <b>intrinsically higher-order mechanisms</b>, where multiple exposure and group reinforcement are active, and are called <b>complex dynamic processes</b>. Higher-order interactions give rise to both novel structures and phenomena, deeply affecting dynamical processes. We are interested in investigating how the higher-order structure of the interactions affects the dynamical processes and how this differs from simple dynamics on pairwise networks. <br>
 </p>
 <b style="color: #155799; font-size: 24px;">Dynamical processes on temporal networks</b>
