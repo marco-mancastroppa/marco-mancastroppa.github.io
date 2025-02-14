@@ -10,13 +10,13 @@ layout: default
     float: left;
     width: 55%; 
     vertical-aligne: top;
-    margin: 0 5px 5px 0; /* Adds space around the image */
+    margin: 0 5px 3px 0; /* Adds space around the image */
 }
 .image-right {
     float: right;
     width: 55%;
     vertical-aligne: top;
-    margin: 0 0 5px 5px; /* Adds space around the image */
+    margin: 0 0 3px 5px; /* Adds space around the image */
 }
     
 .container {
