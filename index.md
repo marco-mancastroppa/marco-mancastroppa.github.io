@@ -122,7 +122,7 @@ ul.two-column-list li {
     <li><a href="https://sites.google.com/site/claudiocastellanohome/home"><b>Claudio Castellano</b></a>, Institute of Complex Systems, ISC-CNR</li>
     <li><a href="https://giuliacencetti.github.io"><b>Giulia Cencetti</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.epicx-lab.com/vittoria-colizza.html"><b>Vittoria Colizza</b></a>, INSERM, Sorbonne Université</li>
-    <li><b>Alessandro De Gaetano</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université), ISI Turin</li>
+    <li><b>Alessandro De Gaetano</b>, CPT, CNRS, Aix-Marseille Université), ISI Turin</li>
     <li><b>Juliette Gambaudo</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://scholar.google.it/citations?user=nqXUx9cAAAAJ&hl=it"><b>Andrea Guizzo</b></a>, Fondazione Bruno Kessler, FBK, Trento</li>
     <li><a href="https://iaciac.github.io/author/iacopo-iacopini/"><b>Iacopo Iacopini</b></a>, Network Science Institute, Northeastern University London</li>
