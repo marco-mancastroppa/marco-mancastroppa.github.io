@@ -98,7 +98,7 @@ ul.two-column-list li {
         
 * * *
 
-# Recent collaborations
+# My collaboration network
 <p id="collaboration"></p>
 <ul class="two-column-list">
     <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
