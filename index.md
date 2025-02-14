@@ -85,9 +85,9 @@ ul.two-column-list li {
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-right">
     Many complex systems present time-varying interactions, which follow specific dynamics: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We are interested in how temporal properties of the network influence dynamic processes unfolding upon it.<br>
 </p>
-<b style="color: #155799; font-size: 24px;">Temporal hypergraphs generation</b>
+<!-- <b style="color: #155799; font-size: 24px;">Temporal hypergraphs generation</b>
 <p>
-    <img src="/pictures/Ht.png" alt="Ht" class="image-left">
+    <img src="/pictures/Ht.png" alt="Ht" class="image-right">
     Work in progress<br>
 </p>
 <b style="color: #155799; font-size: 24px;">Adaptive temporal networks</b>
@@ -102,14 +102,14 @@ ul.two-column-list li {
 </p>
 <b style="color: #155799; font-size: 24px;">Structural and dynamical characterization of hypergraphs</b>
 <p>
-    <img src="/pictures/hyper.png" alt="hyper" class="image-left">
+    <img src="/pictures/hyper.png" alt="hyper" class="image-right">
     Work in progress<br>
 </p>
 <b style="color: #155799; font-size: 24px;">Opinion dynamics on networks and hypergraphs</b>
 <p>
     <img src="/pictures/OP.png" alt="OP" class="image-right">
     Work in progress<br>
-</p>
+</p> -->
         
 * * *
 
