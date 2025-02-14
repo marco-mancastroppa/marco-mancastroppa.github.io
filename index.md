@@ -100,7 +100,7 @@ ul.two-column-list li {
 <b style="color: #155799; font-size: 24px;">Contact tracing for epidemic mitigation</b>
 <p>
     <img src="/pictures/CT.png" alt="CT" class="image-left">
-    Isolation of symptomatic individuals, tracing and testing of their nonsymptomatic contacts are fundamental adaptive behaviours that populations exposed to epidemics can implement. Moreover, effective contact tracing is crucial to containing epidemic spreading without disrupting societal activities, especially during a pandemic. Within the framework of adaptive temporal networks, we investigate the effectiveness of contact tracing in curbing the epidemic and in keeping the population activity, both with numerical and analytical approaches. <br>
+    Isolation of symptomatic individuals, tracing and testing of their nonsymptomatic contacts are fundamental adaptive behaviours that populations exposed to epidemics can implement. Moreover, effective contact tracing is crucial to containing epidemic spreading without disrupting societal activities, especially during a pandemic. Within the framework of adaptive temporal networks, we investigate the effectiveness of different contact tracing strategies in curbing the epidemic and keeping the population activity, both with numerical and analytical approaches. <br>
 </p>
 
 <b style="color: #155799; font-size: 24px;">Dynamical processes on temporal networks</b>
