@@ -98,7 +98,7 @@ ul.two-column-list li {
         
 * * *
 
-# Closest collaborations
+# Recent collaborations
 <p id="collaboration"></p>
 <ul class="two-column-list">
     <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
@@ -107,7 +107,12 @@ ul.two-column-list li {
     <li><a href="https://sites.google.com/site/claudiocastellanohome/home"><b>Claudio Castellano</b></a>, Institute of Complex Systems, ISC-CNR</li>
     <li><a href="https://giuliacencetti.github.io"><b>Giulia Cencetti</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.epicx-lab.com/vittoria-colizza.html"><b>Vittoria Colizza</b></a>, INSERM, Sorbonne Université</li>
+    <li><b>Alessandro De Gaetano</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université), ISI Turin</li>
+    <li><b>Juliette Gambaudo</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
+    <li><a href="https://scholar.google.it/citations?user=nqXUx9cAAAAJ&hl=it"><b>Andrea Guizzo</b></a>, Fondazione Bruno Kessler, FBK, Trento</li>
     <li><a href="https://iaciac.github.io/author/iacopo-iacopini/"><b>Iacopo Iacopini</b></a>, Network Science Institute, Northeastern University London</li>
+    <li><a href="https://scholar.google.com/citations?user=9YHHXwgAAAAJ&hl=en"><b>Razieh Masoumi</b></a>, University of Padova</li>
+    <li><b>Gabriel Maurial</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.nicolaperra.com"><b>Nicola Perra</b></a>, Queen Mary University of London</li>
     <li><a href="http://lordgrilo.github.io"><b>Giovanni Petri</b></a>, Network Science Institute, Northeastern University London, CENTAI</li>
     <li><a href="https://scholar.google.it/citations?user=Z7zwwb8AAAAJ&hl=it"><b>Alessandro Vezzani</b></a>, IMEM-CNR, University of Parma, INFN</li>
