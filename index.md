@@ -10,13 +10,13 @@ layout: default
     float: left;
     width: 55%; 
     vertical-aligne: top;
-    margin: 0 10px 5px 0; /* Adds space around the image */
+    margin: 0 5px 5px 0; /* Adds space around the image */
 }
 .image-right {
     float: right;
     width: 55%;
     vertical-aligne: top;
-    margin: 0 0 5px 10px; /* Adds space around the image */
+    margin: 0 0 5px 5px; /* Adds space around the image */
 }
     
 .container {
@@ -80,21 +80,36 @@ ul.two-column-list li {
 
 # Topics
 <p id="topics"></p>
-## <b style="color: #155799; font-size: 24px;">Dynamical processes on temporal networks</b>
+<b style="color: #155799; font-size: 24px;">Dynamical processes on temporal networks</b>
 <p>
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-right">
-    Several systems present time-varying interactions, which follow specific dynamics and temporal patterns: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We are interested in how temporal properties of the network influence dynamic processes unfolding upon it.<br>
+    Many complex systems present time-varying interactions, which follow specific dynamics: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the dynamics of and on the network have comparable time scales. We are interested in how temporal properties of the network influence dynamic processes unfolding upon it.<br>
 </p>
-<b>Temporal hypergraphs generation<br><br>
-<img src="/pictures/Ht.png" alt="Ht"><br><br>
-<b>Adaptive temporal networks<br><br>
- <img src="/pictures/adaptive.png" alt="adaptive_temp"><br><br>
-<b>Contact tracing for epidemic mitigation<br><br>
- <img src="/pictures/CT.png" alt="CT"><br><br>
-<b>Structural and dynamical characterization of hypergraphs<br><br>
-<img src="/pictures/hyper.png" alt="hyper"><br><br>
-<b>Opinion dynamics on networks and hypergraphs<br><br>
- <img src="/pictures/OP.png" alt="OP"><br><br>
+<b style="color: #155799; font-size: 24px;">Temporal hypergraphs generation</b>
+<p>
+    <img src="/pictures/Ht.png" alt="Ht" class="image-left">
+    Work in progress<br>
+</p>
+<b style="color: #155799; font-size: 24px;">Adaptive temporal networks</b>
+<p>
+     <img src="/pictures/adaptive.png" alt="adaptive_temp" class="image-right">
+    Work in progress<br>
+</p>
+<b style="color: #155799; font-size: 24px;">Contact tracing for epidemic mitigation</b>
+<p>
+    <img src="/pictures/CT.png" alt="CT" class="image-right">
+    Work in progress<br>
+</p>
+<b style="color: #155799; font-size: 24px;">Structural and dynamical characterization of hypergraphs</b>
+<p>
+    <img src="/pictures/hyper.png" alt="hyper" class="image-left">
+    Work in progress<br>
+</p>
+<b style="color: #155799; font-size: 24px;">Opinion dynamics on networks and hypergraphs</b>
+<p>
+    <img src="/pictures/OP.png" alt="OP" class="image-right">
+    Work in progress<br>
+</p>
         
 * * *
 
