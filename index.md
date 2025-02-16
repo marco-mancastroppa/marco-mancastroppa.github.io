@@ -84,8 +84,9 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 
 * * *
 
+<p id="topics"></p> 
+
 # Topics
-<p id="topics"></p>
 <b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
 <p id="characterizationH"></p>
 <p>
@@ -149,9 +150,9 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 </p>
 
 * * *
+<p id="collaboration"></p>
 
 # My collaboration network
-<p id="collaboration"></p>
 <ul class="two-column-list">
     <li><b>Cosimo Agostinelli</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.cpt.univ-mrs.fr/~barrat/"><b>Alain Barrat</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
