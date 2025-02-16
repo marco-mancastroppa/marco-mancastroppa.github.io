@@ -77,7 +77,7 @@ ul.two-column-list li {
 I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt.univ-mrs.fr/">Centre de Physique Théorique (CNRS, Aix-Marseille Université)</a> in Marseille (France) under the supervision of <a href="https://www.cpt.univ-mrs.fr/~barrat/">Alain Barrat</a>.
 </p>
 </div>
-    Here you can find information about my <a href="https://marco-mancastroppa.github.io/academic-trajectory">academic trajectory</a>, my <a href="#topics">research projects</a>, my <a href="#collaboration">collaboration network</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach me out</a> if you’re interested in potential collaborations!
+    <p>Here you can find information about my <a href="https://marco-mancastroppa.github.io/academic-trajectory">academic trajectory</a>, my <a href="#topics">research projects</a>, my <a href="#collaboration">collaboration network</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach me out</a> if you’re interested in potential collaborations!</p>
 
 * * *
 
