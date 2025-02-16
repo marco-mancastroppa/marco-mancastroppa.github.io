@@ -84,10 +84,8 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/hyper.png" alt="hyper" class="image-right">
     Going beyond networks, to include <b>higher-order interactions</b>, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of <b>methods</b> specifically designed to analyse the <b>topological properties of hypergraphs</b> at multiple scales. <br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a></li>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a></li>
-    </ul>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
     </p>
 
 * * *
@@ -96,10 +94,8 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/OP.png" alt="OP" class="image-left">
     <b>Complex dynamic processes</b> are based on <b>intrinsically higher-order mechanisms</b>, where multiple exposure and group reinforcement are active, requiring to consider multi-body interactions. Higher-order interactions give rise to both novel structures and phenomena, deeply affecting dynamical processes. We are interested in investigating how the higher-order structure of the interactions affects the dynamical processes and how these differ from <b>simple dynamics on pairwise networks</b>. <br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a></li>
-        <li>Cencetti G. et al, <a href="https://doi.org/10.1103/PhysRevLett.130.247401">PRL <b>130</b>, 247401 (2023)</a><br></li>
-    </ul>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a><br>
+    - Cencetti G. et al, <a href="https://doi.org/10.1103/PhysRevLett.130.247401">PRL <b>130</b>, 247401 (2023)</a><br><br>
 </p>
 
 * * *
@@ -108,9 +104,7 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/Ht.png" alt="Ht" class="image-right">
     <b>Temporal hypergraphs</b> represent a powerful framework to describe complex systems composed of elements interacting in groups, with interactions evolving over time. Designing <b>models of temporal hypergraphs</b> is crucial for generating surrogates of real observed dynamics, and also for understanding the role of topological and temporal properties on dynamical processes. We work on building new models of higher-order networks <b>replicating features and mechanisms observed</b> in empirical systems.<br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a></li>
-    </ul>
+    -Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
 </p>
 
 * * *
@@ -119,10 +113,8 @@ ul.two-column-list li {
 <p>
      <img src="/pictures/adaptive.png" alt="adaptive_temp" class="image-left">
     <b>Adaptive temporal networks</b> represent a powerful paradigm for modelling the spread of epidemics, accounting for the coupling between epidemic processes and social interactions: human interactions are <b>continuously rearranged over time</b>, affecting the epidemic; the epidemic induces <b>adaptive behaviours</b> with which the population responds to the spread of the pathogen, affecting the social dynamics. Our work consists in understanding the <b>interplay between epidemic dynamics and adaptive behaviors</b>, which is essential to improve <b>response strategies</b> to epidemics.<br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1103/PhysRevResearch.6.033159">PRResearch <b>6</b>, 033159 (2024)</a></li>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1103/PhysRevE.102.020301">PRE <b>102</b>, 020301(R) (2020)</a></li>
-    </ul>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1103/PhysRevResearch.6.033159">PRResearch <b>6</b>, 033159 (2024)</a><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1103/PhysRevE.102.020301">PRE <b>102</b>, 020301(R) (2020)</a><br>
 </p>
 
 * * *
@@ -131,10 +123,8 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/CT.png" alt="CT" class="image-right">
     Isolation of symptomatic individuals, tracing and testing of their nonsymptomatic contacts are fundamental adaptive behaviours that populations exposed to epidemics can implement. Moreover, <b>effective contact tracing</b> is crucial to containing epidemic spreading <b>without disrupting societal activities</b>. Within the framework of <b>adaptive temporal networks</b>, we investigate the effectiveness of different <b>contact tracing strategies</b> in curbing the epidemic and keeping the population activity. <br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-021-22082-7">Nat Commun <b>12</b>, 1919 (2021)</a></li>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1098/rsif.2022.0048">J. R. Soc. Interface <b>19</b>, 20220048 (2022)</a></li>
-    </ul>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-021-22082-7">Nat Commun <b>12</b>, 1919 (2021)</a><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1098/rsif.2022.0048">J. R. Soc. Interface <b>19</b>, 20220048 (2022)</a><br>
 </p>
 
 * * *
@@ -143,9 +133,7 @@ ul.two-column-list li {
 <p>
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-left">
     Many complex systems present time-varying interactions, which follow specific dynamics: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the <b>dynamics of and on the network have comparable time scales</b>. We are interested in how <b>temporal properties</b> of the network influence <b>dynamic processes unfolding upon it</b>.<br><br>
-    <ul>
-        <li>Mancastroppa M. et al, <a href="https://doi.org/10.1088/1742-5468/ab16c4">Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)</a><br></li>
-    </ul>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1088/1742-5468/ab16c4">Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)</a><br>
 </p>
 
 * * *
