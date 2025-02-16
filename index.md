@@ -59,7 +59,54 @@ ul.two-column-list {
 ul.two-column-list li {
     margin-bottom: 10px; /* Adds space between list items */
 }
+
+.toc {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 250px;
+    padding: 15px;
+    background: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    z-index: 100;
+}
+
+.toc h2 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.toc ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.toc ul li {
+    margin: 10px 0;
+}
+
+.toc ul li a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.toc ul li a:hover {
+    color: #0056b3;
+}
+
 </style> 
+
+<div class="toc">
+    <h2>Homepage</h2>
+    <ul>
+        <li><a href="#aboutme">About me</a></li>
+        <li><a href="#topics">Topics</a></li>
+        <li><a href="#collaboration">My collaboration network</a></li>
+    </ul>
+</div>
 
 # About me
 <p id="aboutme"></p>
