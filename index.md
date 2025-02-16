@@ -59,9 +59,61 @@ ul.two-column-list {
 ul.two-column-list li {
     margin-bottom: 10px; /* Adds space between list items */
 }
+
+/* Make the TOC a fixed sidebar */
+.toc {
+    position: fixed;
+    left: 20px;  /* Distance from the left edge */
+    top: 50px;  /* Distance from the top */
+    width: 200px;
+    padding: 10px;
+    background: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.toc ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.toc ul li {
+    margin: 10px 0;
+}
+
+.toc ul li a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.toc ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Give the main content some margin so it doesn't overlap */
+.content {
+    margin-left: 250px; /* Push content to the right */
+    max-width: 800px;
+}
+
+/* Enable smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
 </style> 
 
+<div class="toc">
+    <h3>Table of Contents</h3>
+    <ul>
+        <li><a href="#aboutme">About me</a></li>
+        <li><a href="#topics">Topics</a></li>
+        <li><a href="#collaboration">My collaboration network</a></li>
+    </ul>
+</div>
+<div class="content">
 <div class="container"> 
+<p id="aboutme"></p>
   <img src="/pictures/me.jpg" alt="Marco Mancastroppa">
   <p>I am a <b>physicist</b> with a background in <b>statistical physics</b> and <b>physics of complex systems</b>. My research activity focuses on the study of <b>complex networks, higher-order interactions, network dynamics and stochastic processes on networks</b>, with applications in <b>epidemiology, social systems, and data-driven modeling</b>.<br><br>
     I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt.univ-mrs.fr/">Centre de Physique Théorique (CNRS, Aix-Marseille Université)</a> in Marseille (France) under the supervision of <a href="https://www.cpt.univ-mrs.fr/~barrat/">Alain Barrat</a>.<br><br>
@@ -157,3 +209,4 @@ ul.two-column-list li {
     <li><a href="http://lordgrilo.github.io"><b>Giovanni Petri</b></a>, Network Science Institute, Northeastern University London, CENTAI</li>
     <li><a href="https://scholar.google.it/citations?user=Z7zwwb8AAAAJ&hl=it"><b>Alessandro Vezzani</b></a>, IMEM-CNR, University of Parma, INFN</li>
 </ul>
+</div>
