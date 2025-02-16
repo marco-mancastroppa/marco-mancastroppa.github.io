@@ -61,13 +61,6 @@ ul.two-column-list li {
 }
 </style> 
 
-# Homepage
-<ul>
-    <li><a href="#aboutme">About me</a></li>
-    <li><a href="#topics">Topics</a></li>
-    <li><a href="#collaboration">My collaboration network</a></li>
-</ul>
-
 # About me
 <p id="aboutme"></p>
 <div class="container"> 
@@ -86,6 +79,19 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 </div>
 <div class="container"> 
     <p>Here you can find information about my <a href="https://marco-mancastroppa.github.io/academic-trajectory">academic trajectory</a>, my <a href="#topics">research projects</a>, my <a href="#collaboration">collaboration network</a> and <a href="https://marco-mancastroppa.github.io/publications.html">publications</a>. Feel free to <a href="https://marco-mancastroppa.github.io/contacts.html">reach me out</a> if you’re interested in potential collaborations!
+<ul>
+    <li><a href="#aboutme">About me</a></li>
+    <li><a href="#topics">Topics</a></li>
+    <ul>
+        <li><a href="#characterizationH">Structural characterization of hypergraphs</a></li>
+        <li><a href="#dynH">Complex dynamic processes</a></li>
+        <li><a href="#TempH">Temporal hypergraphs generation</a></li>
+        <li><a href="#adaptive">Adaptive temporal networks</a></li>
+        <li><a href="#CT">Contact tracing for epidemic mitigation</a></li>
+        <li><a href="#bursty">Dynamical processes on temporal networks</a></li>
+    </ul>
+    <li><a href="#collaboration">My collaboration network</a></li>
+</ul>
 </p>
 </div>
 
