@@ -13,7 +13,7 @@ description: Marco Mancastroppa
 ## Papers
 *	**Mancastroppa M.**, Vezzani A., Colizza V., Burioni R.,<br />
 _“Preserving system activity while controlling epidemic spreading in adaptive temporal networks”_,<br />
-[Physical Review Research 6, 033159 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033159)[[arXiv:2402.09076](https://arxiv.org/abs/2402.09076)]
+[Physical Review Research 6, 033159 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033159) [[arXiv:2402.09076](https://arxiv.org/abs/2402.09076)]
 
 *	**Mancastroppa M.**, Iacopini I., Petri G., Barrat A.,<br />
 _“The structural evolution of temporal hypergraphs through the lens of hyper-cores”_,<br />
@@ -45,7 +45,7 @@ _“Tracing and analysis of 288 early SARS-CoV-2 infections outside China: a mod
 
 * **Mancastroppa M.**, Vezzani A., Munoz M.A. e Burioni R.,<br />
 _“Burstiness in activity-driven networks and the epidemic threshold”_,<br />
-[Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)](https://doi.org/10.1088/1742-5468/ab16c4)[[arXiv:1903.11308](https://arxiv.org/abs/1903.11308)]
+[Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)](https://doi.org/10.1088/1742-5468/ab16c4) [[arXiv:1903.11308](https://arxiv.org/abs/1903.11308)]
 
 ## Thesis
 *   Mancastroppa M., [_“Epidemic processes on adaptive temporal networks”_](https://www.repository.unipr.it/bitstream/1889/4819/5/PhD_thesis_MancastroppaMarco_rev.pdf),<br />
