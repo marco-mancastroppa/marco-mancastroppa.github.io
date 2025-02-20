@@ -6,7 +6,7 @@ description: Marco Mancastroppa
 
 ## Academic path
 <dl>
-<dt>2022-actual</dt>
+<dt>2022-current</dt>
   <dd><b>Postdoctoral researcher</b>, Centre de Physique Théorique (CPT), CNRS, Aix-Marseille Université, Marseille (France).<br>
     <i>Project:</i> DataRedux, ANR-funded project - <a href="https://dataredux.weebly.com/">https://dataredux.weebly.com/</a> <br>
     <i>Supervisor:</i> Dr. Alain Barrat - <i>Research group:</i> Physique statistique et systèmes complexes
@@ -54,7 +54,24 @@ I serve as referee for scientific journals such as <i>Nature Communications</i>;
 ***
 
 ## Organizational skills
-
+<dl>
+<dt>2024–current</dt>
+  <dd>Member of the <b>Programme Committee of the International School and Conference on Network Science 2025 (NetSci25)</b>.
+  </dd>
+<dt>2024–current</dt>
+  <dd>Member of the <b>Council of the Complex Systems Society (CSS)</b>.
+  </dd>
+<dt>2024–current</dt>
+  <dd>Member of the <b></b>“Cellule Recherche Ecoresponsable (CERECO)”</b> of the Centre de
+Physique Théorique, Marseille.
+  </dd>
+<dt>2019–current</dt>
+  <dd>Responsible for <b>web management and relations with the members of the Italian Society of Statistical Physics - SIFS</b> and for <b>technical organization of SIFS Plenary Colloquia and Young Seminars</b> (<a href="https://www.fisicastatistica.org/home">https://www.fisicastatistica.org/home</a>).
+  </dd>
+<dt>2019–current</dt>
+  <dd><b>Scientific secretary</b> of the annual <b>Conference of the Italian Society of Statistical Physics - SIFS, i.e. the Italian National Conference on Statistical Physics and Complex Systems</b>, held annually in Parma, Italy
+  </dd>
+</dl>
 ***
 
 ## Scholarships and awards
