@@ -13,17 +13,17 @@ description: Marco Mancastroppa
   </dd>
 <dt>2018-2022</dt>
   <dd><b>PhD in Physics</b>, University of Parma, Parma (Italy).<br>
-    <i>Thesis:</i> Epidemic processes on adaptive temporal networks <br>
+    <i>Thesis:</i> [_“Epidemic processes on adaptive temporal networks”_](https://www.repository.unipr.it/bitstream/1889/4819/5/PhD_thesis_MancastroppaMarco_rev.pdf) <br>
     <i>Supervisors:</i> Prof. Alessandro Vezzani, Prof. Raffaella Burioni - <i>Research group:</i> Statistical Physics, Quantum Mechanics and Complex Systems - <a href="https://www.fisicastatistica.unipr.it">https://www.fisicastatistica.unipr.it</a>
     </dd>
 <dt>2016-2018</dt>
   <dd><b>Master’s degree in Physics</b>, University of Parma, Parma (Italy).<br>
-    <i>Thesis:</i> Epidemic processes on temporal networks with bursty dynamics <br>
+    <i>Thesis:</i> [_“Epidemic processes on bursty temporal networks”_]() <br>
     <i>Supervisors:</i> Prof. Raffaella Burioni, Dr. Alessandro Vezzani
     </dd>
 <dt>2013-2016</dt>
   <dd><b>Bachelor’s degree in Physics</b>, University of Parma, Parma (Italy).<br>
-    <i>Thesis:</i> Deterministic chaos in Lorenz-like systems with stable equilibrium points <br>
+    <i>Thesis:</i> [_“Deterministic chaos in Lorenz-like systems with stable equilibrium points”_]() <br>
     <i>Supervisors:</i> Prof. Mario Casartelli, Prof. Maria Groppi
   </dd>
 </dl>
