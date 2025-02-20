@@ -62,7 +62,7 @@ I serve as referee for scientific journals such as <i>Nature Communications</i>;
   <dd>Member of the <b>Council of the Complex Systems Society (CSS)</b>.
   </dd>
 <dt>2024–current</dt>
-  <dd>Member of the <b></b>“Cellule Recherche Ecoresponsable (CERECO)”</b> of the Centre de
+  <dd>Member of the <b>Cellule Recherche Ecoresponsable (CERECO)</b> of the Centre de
 Physique Théorique, Marseille.
   </dd>
 <dt>2019–current</dt>
