@@ -8,23 +8,23 @@ description: Marco Mancastroppa
 <dl>
 <dt>2022-actual</dt>
   <dd><b>Postdoctoral researcher</b>, Centre de Physique Théorique (CPT), CNRS, Aix-Marseille Université, Marseille (France).<br>
-    Project: DataRedux, ANR-funded project - <a href="https://dataredux.weebly.com/">https://dataredux.weebly.com/</a> <br>
-    Supervisor: Dr. Alain Barrat - Research group: Physique statistique et systèmes complexes
+    <i>Project:</i> DataRedux, ANR-funded project - <a href="https://dataredux.weebly.com/">https://dataredux.weebly.com/</a> <br>
+    <i>Supervisor:</i> Dr. Alain Barrat - <i>Research group:</i> Physique statistique et systèmes complexes
   </dd>
 <dt>2018-2022</dt>
   <dd><b>PhD in Physics</b>, University of Parma, Parma (Italy).<br>
-    Thesis: Epidemic processes on adaptive temporal networks <br>
-    Supervisors: Prof. Alessandro Vezzani, Prof. Raffaella Burioni - Research group: Statistical Physics, Quantum Mechanics and Complex Systems - <a href="www.fisicastatistica.unipr.it">www.fisicastatistica.unipr.it</a>
+    <i>Thesis:</i> Epidemic processes on adaptive temporal networks <br>
+    <i>Supervisors:</i> Prof. Alessandro Vezzani, Prof. Raffaella Burioni - <i>Research group:</i> Statistical Physics, Quantum Mechanics and Complex Systems - <a href="https://www.fisicastatistica.unipr.it">https://www.fisicastatistica.unipr.it</a>
     </dd>
 <dt>2016-2018</dt>
   <dd><b>Master’s degree in Physics</b>, University of Parma, Parma (Italy).<br>
-    Thesis: Epidemic processes on temporal networks with bursty dynamics <br>
-    Supervisors: Prof. Raffaella Burioni, Dr. Alessandro Vezzani
+    <i>Thesis:</i> Epidemic processes on temporal networks with bursty dynamics <br>
+    <i>Supervisors:</i> Prof. Raffaella Burioni, Dr. Alessandro Vezzani
     </dd>
 <dt>2013-2016</dt>
   <dd><b>Bachelor’s degree in Physics</b>, University of Parma, Parma (Italy).<br>
-    Thesis: Deterministic chaos in Lorenz-like systems with stable equilibrium points <br>
-    Supervisors: Prof. Mario Casartelli, Prof. Maria Groppi
+    <i>Thesis:</i> Deterministic chaos in Lorenz-like systems with stable equilibrium points <br>
+    <i>Supervisors:</i> Prof. Mario Casartelli, Prof. Maria Groppi
   </dd>
 </dl>
 
