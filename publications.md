@@ -3,6 +3,13 @@ layout: default
 title: Publications
 description: Marco Mancastroppa
 ---
+<style>
+.video-container {
+            display: flex;
+            justify-content: center; /* Centers the video horizontally */
+            margin-top: 20px;
+        }
+</style>
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 </head>
@@ -47,6 +54,22 @@ _“Tracing and analysis of 288 early SARS-CoV-2 infections outside China: a mod
 _“Burstiness in activity-driven networks and the epidemic threshold”_,<br />
 [Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)](https://doi.org/10.1088/1742-5468/ab16c4) [[arXiv:1903.11308](https://arxiv.org/abs/1903.11308)]
 
+## Online talks
+"Stochastic sampling effects in the control of epidemic spreading on adaptive temporal networks",  Award ceremony for the 2022 Giovanni Paladin Prize <br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mpHTxUkirFg?si=HnsQsY8uXPTZj3VW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+"Stochastic sampling effects and heterogeneity in contact tracing for epidemic control",  I Conference of the Italian Society of Statistical Physics SIFS (2021) <br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z2hywrZOHMI?si=Qlnvr0OyhGisiRtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+"Stochastic sampling effects and heterogeneities in control of epidemic processes",  Cortona Young 2021, Galileo Galilei Institute (GGI) (2021)<br>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Cp3IGcufoCQ?si=0doE1ROq5BtGQD2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Thesis
 *   Mancastroppa M., [_“Epidemic processes on adaptive temporal networks”_](https://www.repository.unipr.it/bitstream/1889/4819/5/PhD_thesis_MancastroppaMarco_rev.pdf),<br />
 PhD thesis in Physics at University of Parma, Parma, Italy (2022),<br />
@@ -59,16 +82,6 @@ Master thesis in Physics at University of Parma, Parma, Italy (2018),<br />
 *   Mancastroppa M., [_“Deterministic chaos in Lorenz-like systems with stable equilibrium points”_](),<br />
 Bachelor thesis in Physics at University of Parma, Parma, Italy (2016),<br />
 [Supervisors: [Prof. Mario Casartelli](https://www.researchgate.net/profile/Mario_Casartelli), [Prof. Maria Groppi](https://personale.unipr.it/en/ugovdocenti/person/19524)]
-
-## Online talks
-"Stochastic sampling effects in the control of epidemic spreading on adaptive temporal networks",  Award ceremony for the 2022 Giovanni Paladin Prize <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpHTxUkirFg?si=HnsQsY8uXPTZj3VW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-"Stochastic sampling effects and heterogeneity in contact tracing for epidemic control",  I Conference of the Italian Society of Statistical Physics SIFS (2021) <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2hywrZOHMI?si=Qlnvr0OyhGisiRtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-"Stochastic sampling effects and heterogeneities in control of epidemic processes",  Cortona Young 2021, Galileo Galilei Institute (GGI) (2021)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cp3IGcufoCQ?si=0doE1ROq5BtGQD2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
 ## Dissemination
 *  Burioni R., Castellano C., Mancastroppa M., Vezzani A., _"Il tracciamento manuale può essere più efficace di quello digitale"_, [Scienza in Rete (2021)](https://www.scienzainrete.it/articolo/tracciamento-manuale-può-essere-più-efficace-di-quello-digitale/raffaella-burioni-claudio) 
