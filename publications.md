@@ -55,17 +55,20 @@ _“Burstiness in activity-driven networks and the epidemic threshold”_,<br />
 [Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)](https://doi.org/10.1088/1742-5468/ab16c4) [[arXiv:1903.11308](https://arxiv.org/abs/1903.11308)]
 
 ## Online talks
-"Stochastic sampling effects in the control of epidemic spreading on adaptive temporal networks",  Award ceremony for the 2022 Giovanni Paladin Prize <br>
+<i>Stochastic sampling effects in the control of epidemic spreading on adaptive temporal networks</i><br>
+Award ceremony for the 2022 Giovanni Paladin Prize <br>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mpHTxUkirFg?si=HnsQsY8uXPTZj3VW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-"Stochastic sampling effects and heterogeneity in contact tracing for epidemic control",  I Conference of the Italian Society of Statistical Physics SIFS (2021) <br>
+<i>Stochastic sampling effects and heterogeneity in contact tracing for epidemic control</i><br>
+I Conference of the Italian Society of Statistical Physics SIFS (2021) <br>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Z2hywrZOHMI?si=Qlnvr0OyhGisiRtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-"Stochastic sampling effects and heterogeneities in control of epidemic processes",  Cortona Young 2021, Galileo Galilei Institute (GGI) (2021)<br>
+<i>Stochastic sampling effects and heterogeneities in control of epidemic processes</i><br>
+Cortona Young 2021, Galileo Galilei Institute (GGI) (2021)<br>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Cp3IGcufoCQ?si=0doE1ROq5BtGQD2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
