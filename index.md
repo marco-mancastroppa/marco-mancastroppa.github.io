@@ -114,7 +114,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p>
     <img src="/pictures/Ht.png" alt="Ht" class="image-right">
     <b>Temporal hypergraphs</b> represent a powerful framework to describe complex systems composed of elements interacting in groups, with interactions evolving over time. Designing <b>models of temporal hypergraphs</b> is crucial for generating surrogates of real observed dynamics, and also for understanding the role of topological and temporal properties on dynamical processes. We work on building new models of higher-order networks <b>replicating features and mechanisms observed</b> in empirical systems.<br><br>
-    -Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
 </p>
 
 * * *
