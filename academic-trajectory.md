@@ -32,17 +32,15 @@ description: Marco Mancastroppa
 
 ## Teaching activities
 <dl>
-<dt>2019-2021</dt>
-  <dd><b>Teaching Assistant</b> for the course <b>“Physics 2 (electromagnetism and optics)”</b> for bachelor’s degree in Chemistry, University of Parma, Parma (Italy) - 71 hours
+<dt>2017-2021</dt>
+  <dd><b>Teaching Assistant</b> for the course <b>“Physics 2 (electromagnetism and optics)”</b> for bachelor’s degree in Chemistry, University of Parma, Parma (Italy)
   </dd>
 <dt>2019-2020</dt>
-  <dd><b>Training course for teaching assistance</b>, University of Parma, Parma (Italy) - 16 hours
+  <dd><b>Training course for teaching assistance</b>, University of Parma, Parma (Italy)
   </dd>
 <dt>2018-2019</dt>
-  <dd><b>Teaching Assistant</b> for the course <b>"Programming applied to physics” </b> for bachelor’s degree in Physics, University of Parma, Parma (Italy) - 36 hours
+  <dd><b>Teaching Assistant</b> for the course <b>"Programming applied to physics” </b> for bachelor’s degree in Physics, University of Parma, Parma (Italy)
   </dd>
-<dt>2017-2018</dt>
-  <dd><b>Teaching Assistant</b> for the course <b>“Physics 2 (electromagnetism and optics)”</b> for bachelor’s degree in Chemistry, University of Parma, Parma (Italy) - 56 hours
   </dd>
 </dl>
 
