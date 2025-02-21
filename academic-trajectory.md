@@ -41,7 +41,6 @@ description: Marco Mancastroppa
 <dt>2018-2019</dt>
   <dd><b>Teaching Assistant</b> for the course <b>"Programming applied to physics” </b> for bachelor’s degree in Physics, University of Parma, Parma (Italy)
   </dd>
-  </dd>
 </dl>
 
 ***
