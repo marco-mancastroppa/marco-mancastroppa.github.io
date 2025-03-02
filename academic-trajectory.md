@@ -72,7 +72,63 @@ Physique Théorique, Marseille.
 ***
 
 ## Scholarships and awards
+<dl>
+<dt>2023</dt>
+  <dd><b>Special mention</b> for the <b>2022 "Sergio Fubini" National Scientific Prize of the Italian National Institute of Nuclear Physics (INFN)</b> for the best PhD thesis in Theoretical Physics (National Scientific Committee 4 - CSN4).
+  </dd>
+<dt>2022</dt>
+  <dd><b>2022 "Giovanni Paladin" Scientific Prize of the Italian Society of Statistical Physics</b> for the best PhD thesis on Statistical Physics and Physics of Complex Systems.
+  </dd>
+<dt>2022</dt>
+  <dd><b>Scholarship of the Ville de Marseille</b> for the campaign "Allocations pour les Chercheurs extérieurs 2022 de la Ville de Marseille".
+  </dd>
+<dt>2020-2021</dt>
+  <dd><b>Acknowledgement of the Italian Society of Statistical Physics - SIFS</b>, for the contribution to the society.
+  </dd>
+<dt>2013-2018</dt>
+  <dd><b>Scholarships “Legato Dovara”</b> yearly provided by Liceo “G. Aselli” of Cremona (Italy).
+  </dd>
+<dt>2017</dt>
+  <dd><b>Scholarship AVIS</b> provided by AVIS of Grumello Cremonese (Italy).
+  </dd>
+<dt>2014</dt>
+  <dd><b>Scholarship AVIS</b> provided by AVIS of Grumello Cremonese (Italy).
+  </dd>
+<dt>2012</dt>
+  <dd><b>Scholarship “Andrea Mascherpa”</b>, provided by “Ex-Aselli” association.
+  </dd>
+<dt>2010-2011</dt>
+  <dd><b>Acknowledgement of the Italian Lombardy Region</b>.
+  </dd>
+</dl>
 
 ***
 
 ## Dissemination activities
+
+<dl>
+<dt>2024-2025</dt>
+  <dd><b>Project “Penne amiche della Scienza”</b> for middle/elementary school students - <a href="https://sites.google.com/view/penne-amiche-della-scienza/home">https://sites.google.com/view/penne-amiche-della-scienza/home</a>
+  </dd>
+<dt>2024</dt>
+  <dd><b>Fête de la Science</b> for the general public. Activity on data, information, epidemics and traffic: the physics of complex networks, Aix-Marseille University, Marseille, France
+  </dd>
+<dt>2021</dt>
+  <dd><b>Seminar “Scale invariance, fractals and self-similarity: a way to see the infinity”</b> for high-school students, University of Parma, Parma, Italy
+  </dd>
+<dt>2021</dt>
+  <dd><b>Article “Il tracciamento manuale può essere più efficace di quello digitale”</b> ScienzaInRete (online journal)
+  </dd>
+<dt>2021</dt>
+  <dd><b>International Masterclasses – Hands on Particle Physics</b> organized by CERN for high-school students, University of Parma, Parma, Italy
+  </dd>
+<dt>2019</dt>
+  <dd><b>Seminar “Applications of statistical physics”</b> for high-school students during the Italian Physics Olympiad, University of Parma, Parma, Italy
+  </dd>
+<dt>2018-2019</dt>
+  <dd><b>European Researchers’ Night - “Data, information, epidemics and traffic: the physics of complex networks”</b>, University of Parma, Parma, Italy
+  </dd>
+<dt>2016</dt>
+  <dd><b>European Researchers’ Night</b>, University of Parma, Parma, Italy
+  </dd>
+</dl>
