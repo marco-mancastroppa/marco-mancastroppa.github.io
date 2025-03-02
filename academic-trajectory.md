@@ -13,8 +13,9 @@ Here you can find information about my academic trajectory, in particular about 
   <li><a href="https://marco-mancastroppa.github.io/academic-trajectory.html#Disseminationactivities">Dissemination activities</a></li>
 </ul>
 
-## Academic path
 <p id="Academicpath"></p>
+
+## Academic path
 <dl>
 <dt>2022-current</dt>
   <dd><b>Postdoctoral researcher</b>, Centre de Physique Théorique (CPT), CNRS, Aix-Marseille Université, Marseille (France).<br>
@@ -39,9 +40,10 @@ Here you can find information about my academic trajectory, in particular about 
 </dl>
 
 ***
+<p id="Teachingactivities"></p>
 
 ## Teaching activities
-<p id="Teachingactivities"></p>
+
 <dl>
 <dt>2017-2021</dt>
   <dd><b>Teaching Assistant</b> for the course <b>“Physics 2 (electromagnetism and optics)”</b> for bachelor’s degree in Chemistry, University of Parma, Parma (Italy)
@@ -55,15 +57,17 @@ Here you can find information about my academic trajectory, in particular about 
 </dl>
 
 ***
+<p id="Revieweractivity"></p>
 
 ## Reviewer activity
-<p id="Revieweractivity"></p>
+
 I serve as referee for scientific journals such as <i>Nature Communications</i>; <i>Scientific Reports</i>; <i>PLoS ONE</i>; <i>IEEE Transactions on Network Science and Engineering</i>; <i>Chaos, Solitons and Fractals</i>; <i>Complexity</i>; <i>Entropy</i>; <i>Advances in Complex Systems</i>; <i>Frontiers in Physics</i>; <i>Methodology and Computing in Applied Probability</i>.
 
 ***
+<p id="Organizationalskills"></p>
 
 ## Organizational skills
-<p id="Organizationalskills"></p>
+
 <dl>
 <dt>2024–current</dt>
   <dd>Member of the <b>Programme Committee of the International School and Conference on Network Science 2025 (NetSci25)</b> - <a href="https://netsci2025.github.io">https://netsci2025.github.io</a>.
@@ -83,9 +87,10 @@ Physique Théorique, Marseille.
   </dd>
 </dl>
 ***
+<p id="Scholarshipsandawards"></p>
 
 ## Scholarships and awards
-<p id="Scholarshipsandawards"></p>
+
 <dl>
 <dt>2023</dt>
   <dd><b>Special mention</b> for the <b>2022 "Sergio Fubini" National Scientific Prize of the Italian National Institute of Nuclear Physics (INFN)</b> for the best PhD thesis in Theoretical Physics (National Scientific Committee 4 - CSN4).
@@ -117,9 +122,10 @@ Physique Théorique, Marseille.
 </dl>
 
 ***
+<p id="Disseminationactivities"></p>
 
 ## Dissemination activities
-<p id="Disseminationactivities"></p>
+
 <dl>
 <dt>2024-2025</dt>
   <dd><b>Project “Penne amiche della Scienza”</b> for middle/elementary school students - <a href="https://sites.google.com/view/penne-amiche-della-scienza/home">https://sites.google.com/view/penne-amiche-della-scienza/home</a>
