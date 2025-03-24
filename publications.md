@@ -18,6 +18,10 @@ description: Marco Mancastroppa
 <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
 
 ## Papers
+*	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
+_“Higher-order dissimilarity measures for hypergraph comparison”_,<br />
+[arXiv:2503.16959](http://arxiv.org/abs/2503.16959)]
+
 *	**Mancastroppa M.**, Vezzani A., Colizza V., Burioni R.,<br />
 _“Preserving system activity while controlling epidemic spreading in adaptive temporal networks”_,<br />
 [Physical Review Research <b>6</b>, 033159 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033159) [[arXiv:2402.09076](https://arxiv.org/abs/2402.09076)]
