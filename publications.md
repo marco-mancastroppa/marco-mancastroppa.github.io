@@ -20,7 +20,7 @@ description: Marco Mancastroppa
 ## Papers
 *	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
 _“Higher-order dissimilarity measures for hypergraph comparison”_,<br />
-[arXiv:2503.16959](http://arxiv.org/abs/2503.16959)]
+[arXiv:2503.16959 (2025)](http://arxiv.org/abs/2503.16959)
 
 *	**Mancastroppa M.**, Vezzani A., Colizza V., Burioni R.,<br />
 _“Preserving system activity while controlling epidemic spreading in adaptive temporal networks”_,<br />
