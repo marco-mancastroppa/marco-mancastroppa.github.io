@@ -163,7 +163,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
     <li><b>Alessandro De Gaetano</b>, CPT, CNRS, Aix-Marseille Université), ISI Turin</li>
     <li><b>Juliette Gambaudo</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://scholar.google.it/citations?user=nqXUx9cAAAAJ&hl=it"><b>Andrea Guizzo</b></a>, Fondazione Bruno Kessler, FBK, Trento</li>
-    <li><a href="https://scholar.google.it/citations?user=nqXUx9cAAAAJ&hl=it"><b>Márton Karsai</b></a>, Central European University, Vienna</li>
+    <li><a href="https://www.martonkarsai.com"><b>Márton Karsai</b></a>, Central European University, Vienna</li>
     <li><a href="https://iaciac.github.io/author/iacopo-iacopini/"><b>Iacopo Iacopini</b></a>, Network Science Institute, Northeastern University London</li>
     <li><a href="https://scholar.google.com/citations?user=9YHHXwgAAAAJ&hl=en"><b>Razieh Masoumi</b></a>, University of Padova</li>
     <li><b>Gabriel Maurial</b>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
