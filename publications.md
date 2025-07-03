@@ -18,6 +18,10 @@ description: Marco Mancastroppa
 <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
 
 ## Papers
+*	**Mancastroppa M.**, Cencetti G., Barrat A.,<br />
+_“Emerging Activity Temporal Hypergraph (EATH), a model for generating realistic time-varying hypergraphs”_,<br />
+[arXiv:2507.01124 (2025)](https://arxiv.org/abs/2507.01124)
+
 *	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
 _“Higher-order dissimilarity measures for hypergraph comparison”_,<br />
 [arXiv:2503.16959 (2025)](http://arxiv.org/abs/2503.16959)
