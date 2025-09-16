@@ -61,7 +61,7 @@ Here you can find information about my academic trajectory, in particular about 
 
 ## Reviewer activity
 
-I serve as referee for scientific journals such as <i>Nature Communications</i>; <i>Scientific Reports</i>; <i>PLoS ONE</i>; <i>IEEE Transactions on Network Science and Engineering</i>; <i>Chaos, Solitons and Fractals</i>; <i>Complexity</i>; <i>Entropy</i>; <i>Advances in Complex Systems</i>; <i>Frontiers in Physics</i>; <i>Methodology and Computing in Applied Probability</i>.
+I serve as referee for scientific journals such as <i>Nature Communications</i>; <i>Communications Physics</i>; <i>Scientific Reports</i>; <i>PLoS ONE</i>; <i>Physical Review E</i>; <i>IEEE Transactions on Network Science and Engineering</i>; <i>Chaos, Solitons and Fractals</i>; <i>Complexity</i>; <i>Jounral of Statistical Physics: Theory and Experiment</i>; <i>Entropy</i>; <i>Advances in Complex Systems</i>; <i>Frontiers in Physics</i>; <i>Methodology and Computing in Applied Probability</i>.
 
 ***
 <p id="Organizationalskills"></p>
