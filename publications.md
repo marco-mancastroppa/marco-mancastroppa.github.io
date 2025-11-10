@@ -20,7 +20,7 @@ description: Marco Mancastroppa
 ## Papers
 *	**Mancastroppa M.**, Cencetti G., Barrat A.,<br />
 _“Emerging Activity Temporal Hypergraph (EATH), a model for generating realistic time-varying hypergraphs”_,<br />
-[arXiv:2507.01124 (2025)](https://arxiv.org/abs/2507.01124)
+[Physical Review E <b>112</b>, 054305 (2025)](https://doi.org/10.1103/8rmn-mdgz) [[arXiv:2507.01124 (2025)](https://arxiv.org/abs/2507.01124)]
 
 *	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
 _“Higher-order dissimilarity measures for hypergraph comparison”_,<br />
