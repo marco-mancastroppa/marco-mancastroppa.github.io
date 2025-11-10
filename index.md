@@ -116,7 +116,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p>
     <img src="/pictures/Ht.png" alt="Ht" class="image-right">
     <b>Temporal hypergraphs</b> represent a powerful framework to describe complex systems composed of elements interacting in groups, with interactions evolving over time. Designing <b>models of temporal hypergraphs</b> is crucial for generating surrogates of real observed dynamics, and also for understanding the role of topological and temporal properties on dynamical processes. We work on building new models of higher-order networks <b>replicating features and mechanisms observed</b> in empirical systems.<br><br>
-    - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2507.01124">arXiv:2507.01124 (2025)</a><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1103/8rmn-mdgz">Phys. Rev. E <b>112</b>, 054305 (2025)</a><br>
     - Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
 </p>
 
@@ -149,6 +149,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p>
     <img src="/pictures/dyn_temp.png" alt="Dyn_temp" class="image-left">
     Many complex systems present time-varying interactions, which follow specific dynamics: these systems are represented using <b>temporal networks</b>. Dynamic processes on temporal networks are strongly impacted by the network dynamics, especially when the <b>dynamics of and on the network have comparable time scales</b>. We are interested in how <b>temporal properties</b> of the network influence <b>dynamic processes unfolding upon it</b>.<br><br>
+    - Mancastroppa M. et al, <a href="https://doi.org/10.1103/8rmn-mdgz">Phys. Rev. E <b>112</b>, 054305 (2025)</a><br>
     - Mancastroppa M. et al, <a href="https://doi.org/10.1088/1742-5468/ab16c4">Journal of Statistical Mechanics: Theory and Experiment 053502 (2019)</a><br>
 </p>
 
