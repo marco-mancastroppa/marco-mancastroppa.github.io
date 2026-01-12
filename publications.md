@@ -18,6 +18,10 @@ description: Marco Mancastroppa
 <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
 
 ## Papers
+*	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
+_“Adaptive behaviors neutralize bistable explosive transitions in higher-order contagion”_,<br />
+[arXiv:2601.05801 (2026)](https://arxiv.org/abs/2601.05801)
+
 *	**Mancastroppa M.**, Cencetti G., Barrat A.,<br />
 _“Emerging Activity Temporal Hypergraph (EATH), a model for generating realistic time-varying hypergraphs”_,<br />
 [Physical Review E <b>112</b>, 054305 (2025)](https://doi.org/10.1103/8rmn-mdgz) [[arXiv:2507.01124 (2025)](https://arxiv.org/abs/2507.01124)]
