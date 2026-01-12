@@ -92,7 +92,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p id="characterizationH"></p>
 <p>
     <img src="/pictures/hyper_adapt.png" alt="hyper" class="image-left">
-    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion and the adaptive mechanisms can involve <b>(higher-order) group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b> and in developing new <b>adaptive mechanism intrinsically higher-order</b>. <br><br>
+    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion can involve <b>(higher-order) group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b> and in developing new <b>adaptive mechanisms intrinsically higher-order</b>. <br><br>
     - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2601.05801">arXiv:2601.05801 (2026)</a><br>
     - Mancastroppa M. et al, In preparation (2026)<br>
     <br>
