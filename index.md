@@ -91,6 +91,18 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
 <p id="characterizationH"></p>
 <p>
+    <img src="/pictures/hyper_adapt.png" alt="hyper" class="image-left">
+    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior and reduce their exposure. The effects of such adaptive mechanisms have been studied for processes in which <b>pairwise interactions</b> drive contagion and risk perception. However, contagion and the adaptive mechanisms can also involve <b>("higher-order") group interactions</b>, leading potentially to new phenomenology. How adaptive behavior resulting from risk perception affects higher-order processes remains an open question. We are interested in understanding the impact of adaptive behaviors on higher-order contagion processes and in developping new adaptive mechanism intrinsically higher-order. <br><br>
+    - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2601.05801">arXiv:2601.05801 (2026)</a><br>
+    - Mancastroppa M. et al, In preparation (2026)<br>
+    <br>
+    </p>
+
+* * *
+
+<b style="color: #155799; font-size: 24px;">Structural characterization of hypergraphs</b>
+<p id="characterizationH"></p>
+<p>
     <img src="/pictures/hyper.png" alt="hyper" class="image-right">
     Going beyond networks, to include <b>higher-order interactions</b>, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of <b>methods</b> specifically designed to analyse the <b>topological properties of hypergraphs</b> at multiple scales. <br><br>
     - Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a><br>
