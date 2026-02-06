@@ -20,6 +20,10 @@ description: Marco Mancastroppa
 ## Papers
 *	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
 _“Adaptive behaviors neutralize bistable explosive transitions in higher-order contagion”_,<br />
+[arXiv:2602.05915 (2026)](https://arxiv.org/abs/2602.05915)
+
+*	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
+_“Adaptive behaviors neutralize bistable explosive transitions in higher-order contagion”_,<br />
 [arXiv:2601.05801 (2026)](https://arxiv.org/abs/2601.05801)
 
 *	**Mancastroppa M.**, Cencetti G., Barrat A.,<br />
