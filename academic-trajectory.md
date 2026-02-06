@@ -69,7 +69,13 @@ I serve as referee for scientific journals such as <i>Nature Communications</i>;
 ## Organizational skills
 
 <dl>
-<dt>2024–current</dt>
+<dt>2025–2026</dt>
+  <dd>Reviewer for the <b>International School and Conference on Network Science 2026 (NetSci26)</b> - <a href="https://www.netsci2026.com">https://www.netsci2026.com</a>.
+  </dd>
+<dt>2024–2025</dt>
+  <dd>Reviewer for the <b>17th International Conference on Complex Networks COMPLENET 2026</b> - <a href="https://complenet.weeblysite.com">https://complenet.weeblysite.com</a>
+  </dd>
+<dt>2024–2025</dt>
   <dd>Member of the <b>Programme Committee of the International School and Conference on Network Science 2025 (NetSci25)</b> - <a href="https://netsci2025.github.io">https://netsci2025.github.io</a>.
   </dd>
 <dt>2024–current</dt>
@@ -127,6 +133,9 @@ Physique Théorique, Marseille.
 ## Dissemination activities
 
 <dl>
+  <dt>2025</dt>
+  <dd><b>Fête de la Science</b> for the general public. Activity on data, information, epidemics and traffic: the physics of complex networks, Aix-Marseille University, Marseille, France
+  </dd>
 <dt>2024-2025</dt>
   <dd><b>Project “Penne amiche della Scienza”</b> for middle/elementary school students - <a href="https://sites.google.com/view/penne-amiche-della-scienza/home">https://sites.google.com/view/penne-amiche-della-scienza/home</a>
   </dd>
