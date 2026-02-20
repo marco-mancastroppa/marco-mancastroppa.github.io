@@ -106,7 +106,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
     <img src="/pictures/hyper.png" alt="hyper" class="image-right">
     Going beyond networks, to include <b>higher-order interactions</b>, is a major step to better describe complex systems characterized by group interactions. In the resulting <b>hypergraph</b> representation, tools to identify structures and central nodes are scarce. We are working on developing a series of <b>methods</b> specifically designed to analyse the <b>topological properties of hypergraphs</b> at multiple scales. <br><br>
     - Mancastroppa M. et al, <a href="https://doi.org/10.1038/s41467-023-41887-2">Nat Commun <b>14</b>, 6223 (2023)</a><br>
-    - Agostinelli C. et al, <a href="https://arxiv.org/abs/2503.16959">arXiv:2503.16959 (2025)</a><br>
+    - Agostinelli C. et al, <a href="https://doi.org/10.1093/comnet/cnaf048">J Complex Netw <b>14</b>, cnaf048 (2026)</a><br>
     - Mancastroppa M. et al, <a href="https://doi.org/10.1140/epjds/s13688-024-00490-1">EPJ Data Science <b>13</b>, 50 (2024)</a><br>
     </p>
 
