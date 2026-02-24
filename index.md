@@ -92,13 +92,13 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p id="characterizationH"></p>
 <p>
     <img src="/pictures/hyper_adapt.png" alt="hyper" class="image-left">
-    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion can involve <b>(higher-order) group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b>, on <b>social activity</b>, by also developing new <b>adaptive mechanisms intrinsically higher-order</b>. <br>
+    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion can involve <b>group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b>, by also developing new <b>adaptive mechanisms intrinsically higher-order</b>. <br><br>
     - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2601.05801">arXiv:2601.05801 (2026)</a><br>
     - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2602.05915">arXiv:2602.05915 (2026)</a><br>
     <br>
     <img src="/pictures/hyperDeffuant_adapt.png" alt="hyper" class="image-right">
      We are also insterested in understanding how <b>higher-order adaptivity</b> impact the pheonomelogoy of <b>opinion dynamics</b>, including <b>consensus, polarization and fragmentation</b>. Indeed, individuals can change their opinion due to the interactions with their neighbors: these opinion changes can occur in <b>groups</b>, which may also undergo <b>adaptive modifications</b> if disagreement arises.
-    <br>
+    <br><br>
     - Agostinelli C. et al, <a href="https://arxiv.org/abs/2602.19684">arXiv:2602.19684 (2026)</a><br>
     </p>
 
