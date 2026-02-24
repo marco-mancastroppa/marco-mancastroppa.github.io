@@ -88,14 +88,18 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
 <p id="topics"></p> 
 
 # Topics
-<b style="color: #155799; font-size: 24px;">Adaptive behaviours on hypergraphs</b>
+<b style="color: #155799; font-size: 24px;">Higher-order adaptive behaviours</b>
 <p id="characterizationH"></p>
 <p>
     <img src="/pictures/hyper_adapt.png" alt="hyper" class="image-left">
-    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion can involve <b>(higher-order) group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b> and in developing new <b>adaptive mechanisms intrinsically higher-order</b>. <br><br>
+    During <b>contagion phenomena</b>, individuals perceiving a risk of infection commonly adapt their behavior. Contagion can involve <b>(higher-order) group interactions</b>, leading potentially to new phenomenology. We are interested in understanding the impact of <b>adaptive behaviors on higher-order contagion processes</b>, on <b>social activity</b>, by also developing new <b>adaptive mechanisms intrinsically higher-order</b>. <br>
     - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2601.05801">arXiv:2601.05801 (2026)</a><br>
     - Mancastroppa M. et al, <a href="https://arxiv.org/abs/2602.05915">arXiv:2602.05915 (2026)</a><br>
     <br>
+    <img src="/pictures/hyperDeffuant_adapt.png" alt="hyper" class="image">
+    We are also interested in <b>adaptive higher-order opinion dynamics</b>. Opinion dynamics models describe how individual opinions evolve through interactions: opinion changes can occur in <b>groups</b>, which may also undergo <b>adaptive changes</b> if <b>disagreement</b> arises. We are insterested in understaing how <b>adaptivity</b> impact the pheonomelogoy of opinion dynamics, including consensus, polarization and fragmentation, and how group adaptation impact the <b>higher-order topology</b> of interactions.
+    <br>
+    - Agostinelli C. et al, <a href="https://arxiv.org/abs/2602.19684">arXiv:2602.19684 (2026)</a><br>
     </p>
 
 * * *
