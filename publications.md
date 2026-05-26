@@ -20,7 +20,7 @@ description: Marco Mancastroppa
 ## Papers
 *	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
 _“Group adaptation drives opinion dynamics in higher-order networks”_,<br />
-[arXiv:2602.19684 (2026)](https://arxiv.org/abs/2602.19684)
+[APS Open Science <b>1</b>, 000028 (2026)](https://doi.org/10.1103/gcz4-wwb3) [[arXiv:2602.19684 (2026)](https://arxiv.org/abs/2602.19684)]
 
 *	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
 _“Higher-order adaptive behaviors outperform pairwise strategies in mitigating contagion dynamics”_,<br />
