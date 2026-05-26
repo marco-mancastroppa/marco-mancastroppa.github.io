@@ -99,7 +99,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
     <img src="/pictures/hyperDeffuant_adapt.png" alt="hyper" class="image-right">
      We are also insterested in understanding how <b>higher-order adaptivity</b> impact the pheonomelogoy of <b>opinion dynamics</b>, including <b>consensus, polarization and fragmentation</b>. Indeed, individuals can change their opinion due to the interactions with their neighbors: these opinion changes can occur in <b>groups</b>, which may also undergo <b>adaptive modifications</b> if disagreement arises.
     <br><br>
-    - Agostinelli C. et al, <a href="https://arxiv.org/abs/2602.19684">arXiv:2602.19684 (2026)</a><br>
+    - Agostinelli C. et al, <a href="https://doi.org/10.1103/gcz4-wwb3">APS Open Sci <b>1</b>, 000028 (2026)</a><br>
     </p>
 
 * * *
