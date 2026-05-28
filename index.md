@@ -177,7 +177,7 @@ I am currently a <b>post-doctoral researcher</b> at the <a href="https://www.cpt
     <li><a href="https://scholar.google.com/citations?user=No5lgjQAAAAJ&hl=en"><b>Cosimo Agostinelli</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.cpt.univ-mrs.fr/~barrat/"><b>Alain Barrat</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://personale.unipr.it/en/ugovdocenti/person/18825"><b>Raffaella Burioni</b></a>, University of Parma, INFN</li>
-    <li><a href="https://www.epicx-lab.com/lucille-calmon.html"><b>Lucille Calmon</b></a>, EPIcx lab, INSERM, ISI</li>
+    <li><a href="https://www.epicx-lab.com/lucille-calmon.html"><b>Lucille Calmon</b></a>, EPIcx lab, INSERM, Sorbonne Université, ISI Turin</li>
     <li><a href="https://sites.google.com/site/claudiocastellanohome/home"><b>Claudio Castellano</b></a>, Institute of Complex Systems, ISC-CNR</li>
     <li><a href="https://giuliacencetti.github.io"><b>Giulia Cencetti</b></a>, Centre de Physique Théorique (CNRS, Aix-Marseille Université)</li>
     <li><a href="https://www.epicx-lab.com/vittoria-colizza.html"><b>Vittoria Colizza</b></a>, INSERM, Sorbonne Université</li>
