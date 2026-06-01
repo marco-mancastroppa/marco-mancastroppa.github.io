@@ -75,7 +75,7 @@ ul.two-column-list li {
     <a href="https://github.com/marco-mancastroppa" target="_blank"><i class="fa-brands fa-github fa-2x"></i></a>
     <a href="https://fr.linkedin.com/in/marco-mancastroppa-b3587611a" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a>
 <br><br>I am a <b> network scientist</b> with a background in <b>statistical physics</b>, <b>complex systems</b> and <b>epidemiology</b>. My research activity focuses on the study of <b>complex networks, higher-order interactions, network dynamics and stochastic processes on networks</b>, with applications in <b>epidemiology, social systems, and data-driven modeling</b>.<br><br>
-Currently I am a <b>post-doctoral researcher</b> at the <a href=”https://sante.sorbonne-universite.fr/actualites/inauguration-du-sumoc-sorbonne-universite-modeling-outbreaks-center”>Sorbonne Université Modeling Outbreaks Center (SUMOC, INSERM, IPLESP)</a>in the <a href="https://www.epicx-lab.com">EPIcx lab</a> lead by <a href="https://www.epicx-lab.com/vittoria-colizza.html">Vittoria Colizza</a>, working on <b>network epidemiology of healthcare-associated infections</b>. 
+Currently I am a <b>post-doctoral researcher</b> at the <a href="https://sante.sorbonne-universite.fr/actualites/inauguration-du-sumoc-sorbonne-universite-modeling-outbreaks-center">Sorbonne Université Modeling Outbreaks Center (SUMOC, INSERM, IPLESP)</a> in the <a href="https://www.epicx-lab.com">EPIcx lab</a> lead by <a href="https://www.epicx-lab.com/vittoria-colizza.html">Vittoria Colizza</a>, working on <b>network epidemiology of healthcare-associated infections</b>. 
 </p>
 </div>
 <div class="container"> 
