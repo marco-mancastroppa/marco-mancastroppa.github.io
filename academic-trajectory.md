@@ -17,7 +17,13 @@ Here you can find information about my academic trajectory, in particular about 
 
 ## Academic path
 <dl>
-<dt>2022-current</dt>
+<dt>2026-current</dt>
+  <dd><b>Postdoctoral researcher</b>, Sorbonne Université Modeling Outbreaks Center (SUMOC), INSERM, Institut Pierre Louis d'Epidémiologie et de Santé Publique (IPLESP), Paris (France).<br>
+    <i>Project:</i> ARCANE, ANR-DFG funded project - <a href="https://arcane-project.eu">https://arcane-project.eu</a> <br>
+    <i>Supervisor:</i> Dr. Vittoria Colizza - <i>Research group:</i> EPIcx lab (Epidemics in complex environments)  
+</dd>
+
+<dt>2022-2026</dt>
   <dd><b>Postdoctoral researcher</b>, Centre de Physique Théorique (CPT), CNRS, Aix-Marseille Université, Marseille (France).<br>
     <i>Project:</i> DataRedux, ANR-funded project - <a href="https://dataredux.weebly.com/">https://dataredux.weebly.com/</a> <br>
     <i>Supervisor:</i> Dr. Alain Barrat - <i>Research group:</i> Physique statistique et systèmes complexes
