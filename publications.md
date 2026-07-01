@@ -24,11 +24,11 @@ _“Group adaptation drives opinion dynamics in higher-order networks”_,<br />
 
 *	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
 _“Higher-order adaptive behaviors outperform pairwise strategies in mitigating contagion dynamics”_,<br />
-[arXiv:2602.05915 (2026)](https://arxiv.org/abs/2602.05915)
+[Phys. Rev. E <b>114</b>, 014302 (2026)](https://doi.org/10.1103/7zyh-9j1b) [arXiv:2602.05915 (2026)](https://arxiv.org/abs/2602.05915)
 
 *	**Mancastroppa M.**, Karsai M., Barrat A.,<br />
 _“Adaptive behaviors neutralize bistable explosive transitions in higher-order contagion”_,<br />
-[arXiv:2601.05801 (2026)](https://arxiv.org/abs/2601.05801)
+[APS Open Sci. 1, L000054 (2026)](https://doi.org/10.1103/1sgn-k3fk) [arXiv:2601.05801 (2026)](https://arxiv.org/abs/2601.05801)
 
 *	**Mancastroppa M.**, Cencetti G., Barrat A.,<br />
 _“Emerging Activity Temporal Hypergraph (EATH), a model for generating realistic time-varying hypergraphs”_,<br />
