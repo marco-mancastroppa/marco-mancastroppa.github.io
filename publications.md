@@ -18,6 +18,10 @@ description: Marco Mancastroppa
 <a href="https://orcid.org/0000-0002-7344-7992" target="_blank"><i class="fa-brands fa-orcid fa-2x"></i></a>
 
 ## Papers
+*	**Mancastroppa M.**, Cencetti G., Iacopini I., Petri G., Barrat A.,<br />
+_“Activity-based temporal hypergraphs: from individual activity to collective social dynamics”_,<br />
+[arXiv:2610.36333 (2026)](https://arxiv.org/abs/2610.36333)]
+
 *	Agostinelli C., **Mancastroppa M.**, Barrat A.,<br />
 _“Group adaptation drives opinion dynamics in higher-order networks”_,<br />
 [APS Open Science <b>1</b>, 000028 (2026)](https://doi.org/10.1103/gcz4-wwb3) [[arXiv:2602.19684 (2026)](https://arxiv.org/abs/2602.19684)]
